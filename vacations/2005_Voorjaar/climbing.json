@@ -1,0 +1,405 @@
+{
+  "Wandflue": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Wandflue",
+        "routenaam": "Zenith",
+        "datum": "mei-05",
+        "moeilijkheid": "6a (5c)",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Wandflue",
+        "routenaam": "Piccolo",
+        "datum": "mei-05",
+        "moeilijkheid": "4c",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Tudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Wandflue",
+        "routenaam": "Au claire la lune (?)",
+        "datum": "mei-05",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Tudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Wandflue",
+        "routenaam": "Junior 1",
+        "datum": "mei-05",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Hornflue": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Hornflue",
+        "routenaam": "Greengo 2",
+        "datum": "mei-05",
+        "moeilijkheid": "4a",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Hornflue",
+        "routenaam": "Noel",
+        "datum": "mei-05",
+        "moeilijkheid": "4c",
+        "lengte": "6 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Tudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Hornflue",
+        "routenaam": "Franca (1e l.)",
+        "datum": "mei-05",
+        "moeilijkheid": "5b (5a)",
+        "lengte": "6 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Tudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Torbeccio": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Torbeccio",
+        "routenaam": "Rubin (1e l.)",
+        "datum": "mei-05",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Tudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Torbeccio",
+        "routenaam": "Saphir",
+        "datum": "mei-05",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Ponte Brolla": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Ponte Brolla",
+        "routenaam": "Centrale (5 l.)",
+        "datum": "mei-05",
+        "moeilijkheid": "4c",
+        "lengte": "110 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4c, 4b, 4c, 4b, 4b"
+      },
+      {
+        "gebied": "Ponte Brolla",
+        "routenaam": "Mekka (1e l.)",
+        "datum": "mei-05",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ponte Brolla",
+        "routenaam": "Bionda",
+        "datum": "mei-05",
+        "moeilijkheid": "5b",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ponte Brolla",
+        "routenaam": "Recta",
+        "datum": "mei-05",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ponte Brolla",
+        "routenaam": "Muckel",
+        "datum": "mei-05",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ponte Brolla",
+        "routenaam": "Wim (1e l.)",
+        "datum": "mei-05",
+        "moeilijkheid": "5a",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ponte Brolla",
+        "routenaam": "Robert Lembke (1e l.)",
+        "datum": "mei-05",
+        "moeilijkheid": "5b+",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ponte Brolla",
+        "routenaam": "Pisello (1e l.)",
+        "datum": "mei-05",
+        "moeilijkheid": "5a",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Monte Garzo": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Monte Garzo",
+        "routenaam": "Disinvolto",
+        "datum": "mei-05",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

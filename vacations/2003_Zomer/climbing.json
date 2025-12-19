@@ -1,0 +1,279 @@
+{
+  "Fal. de Beaufort, Frison-Roche": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Fal. de Beaufort, Frison-Roche",
+        "routenaam": "nr. 16",
+        "datum": "jul-03",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Fal. de Beaufort, Frison-Roche",
+        "routenaam": "nr. 10",
+        "datum": "jul-03",
+        "moeilijkheid": "4b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Fal. de Beaufort, Frison-Roche",
+        "routenaam": "nr. 7",
+        "datum": "jul-03",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Falaise du Manchet": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Falaise du Manchet",
+        "routenaam": "Guttemberg",
+        "datum": "jul-03",
+        "moeilijkheid": "5a+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul ",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise du Manchet",
+        "routenaam": "22 les v'la",
+        "datum": "jul-03",
+        "moeilijkheid": "4a",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Rocher du Chevril, sect. Fillol": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Rocher du Chevril, sect. Fillol",
+        "routenaam": "La Sans Nom",
+        "datum": "jul-03",
+        "moeilijkheid": "5b/c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na ?",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Falaise du Torchet": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Falaise du Torchet",
+        "routenaam": "Petit Pilier",
+        "datum": "aug-03",
+        "moeilijkheid": "5b",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "schist",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise du Torchet",
+        "routenaam": "Marine",
+        "datum": "aug-03",
+        "moeilijkheid": "5c",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "schist",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise du Torchet",
+        "routenaam": "Petite Sirene",
+        "datum": "aug-03",
+        "moeilijkheid": "4b",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "spleet",
+        "rots": "schist",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise du Torchet",
+        "routenaam": "Escalope Salade",
+        "datum": "aug-03",
+        "moeilijkheid": "6a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "schist",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Falaise de la Grande Roche": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Falaise de la Grande Roche",
+        "routenaam": "Max attack",
+        "datum": "aug-03",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na ?",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise de la Grande Roche",
+        "routenaam": "A lunis sage",
+        "datum": "aug-03",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "Loue: Hautepierre-le-Chatelet": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Loue: Hautepierre-le-Chatelet",
+        "routenaam": "La deja faite",
+        "datum": "mei-11",
+        "moeilijkheid": "4c",
+        "lengte": "10 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Loue: Hautepierre-le-Chatelet",
+        "routenaam": "L'onde",
+        "datum": "mei-11",
+        "moeilijkheid": "5b",
+        "lengte": "10 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na (steun)",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Pontalier": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Pontalier",
+        "routenaam": "Trafic",
+        "datum": "mei-11",
+        "moeilijkheid": "3c",
+        "lengte": "14 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Pontalier",
+        "routenaam": "Gare aux mesanges",
+        "datum": "mei-11",
+        "moeilijkheid": "5a+",
+        "lengte": "14 m",
+        "zeker": "super",
+        "kenmerk": "overhang",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "na (poging)",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

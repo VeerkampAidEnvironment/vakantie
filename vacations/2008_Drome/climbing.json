@@ -1,0 +1,537 @@
+{
+  "Ecole de la Graville": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "La bleue",
+        "datum": "mei-08",
+        "moeilijkheid": "3",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Le Plan",
+        "datum": "mei-08",
+        "moeilijkheid": "4",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Monalisa",
+        "datum": "mei-08",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "L'Y",
+        "datum": "mei-08",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Cayenne",
+        "datum": "mei-08",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Directe de la Vebre",
+        "datum": "mei-08",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "La Vebre",
+        "datum": "mei-08",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Dune",
+        "datum": "mei-08",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Pas de Chaussettes dans les Zippettes",
+        "datum": "mei-08",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Urka",
+        "datum": "mei-08",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Babas a l'ail",
+        "datum": "mei-08",
+        "moeilijkheid": "4a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Muquet",
+        "datum": "mei-08",
+        "moeilijkheid": "5b+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Tournic",
+        "datum": "mei-08",
+        "moeilijkheid": "4a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Arrakis",
+        "datum": "mei-08",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Walkyrie",
+        "datum": "mei-08",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Les Potes a Perault et a Grisly",
+        "datum": "mei-08",
+        "moeilijkheid": "5c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Plaisir du Soir",
+        "datum": "mei-08",
+        "moeilijkheid": "5c-",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "La Blaconnaise",
+        "datum": "mei-08",
+        "moeilijkheid": "5c-",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Utopia",
+        "datum": "mei-08",
+        "moeilijkheid": "4a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Dune",
+        "datum": "mei-08",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Force 6",
+        "datum": "mei-08",
+        "moeilijkheid": "5c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Tilt",
+        "datum": "mei-08",
+        "moeilijkheid": "6a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (steun)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Le Roches des Abeilles": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Le Roches des Abeilles",
+        "routenaam": "V' la les Keufs",
+        "datum": "mei-08",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Roches des Abeilles",
+        "routenaam": "Domino",
+        "datum": "mei-08",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Roches des Abeilles",
+        "routenaam": "Ma brave dame",
+        "datum": "mei-08",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

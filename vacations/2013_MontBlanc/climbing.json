@@ -1,0 +1,96 @@
+{
+  "Falaise du Tenderet": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Falaise du Tenderet",
+        "routenaam": "Alpha",
+        "datum": "jul-13",
+        "moeilijkheid": "4b",
+        "lengte": "10 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise du Tenderet",
+        "routenaam": "Le Dahud",
+        "datum": "jul-13",
+        "moeilijkheid": "4c",
+        "lengte": "10 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Les Cheserys": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Les Cheserys",
+        "routenaam": "Greg Bufat",
+        "datum": "jul-13",
+        "moeilijkheid": "4c",
+        "lengte": "125 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": "4c, 4c, 4c, 4c, 5a"
+      },
+      {
+        "gebied": "Les Cheserys",
+        "routenaam": "Voie Jaune",
+        "datum": "aug-13",
+        "moeilijkheid": "4c",
+        "lengte": "120 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": "4b, 4b, 4c, 3c, 4c"
+      }
+    ]
+  }
+}

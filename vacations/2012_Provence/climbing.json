@@ -1,0 +1,117 @@
+{
+  "Ecole de la Graville": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "La Bleue",
+        "datum": "okt-12",
+        "moeilijkheid": "3",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Le Plan",
+        "datum": "okt-12",
+        "moeilijkheid": "4",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Mona Lisa - Belu",
+        "datum": "okt-12",
+        "moeilijkheid": "5-",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Baume Rousse": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Baume Rousse",
+        "routenaam": "Murmuroa",
+        "datum": "okt-12",
+        "moeilijkheid": "4+",
+        "lengte": "35 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse",
+        "routenaam": "L'Emile er Une Nuit",
+        "datum": "okt-12",
+        "moeilijkheid": "4",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

@@ -1,0 +1,971 @@
+{
+  "Sustenbruggli - sector D-E": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sustenbruggli - sector D-E",
+        "routenaam": "Topraider",
+        "datum": "aug-05",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sustenbruggli - sector D-E",
+        "routenaam": "Laraschaft",
+        "datum": "aug-05",
+        "moeilijkheid": "4c",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sustenbruggli - sector D-E",
+        "routenaam": "Schnuzzi",
+        "datum": "aug-05",
+        "moeilijkheid": "5a+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sustenbruggli - sector D-E",
+        "routenaam": "Spidine Gonzalina",
+        "datum": "aug-05",
+        "moeilijkheid": "3b (4a)",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sustenbruggli - sector D-E",
+        "routenaam": "Aventure",
+        "datum": "aug-05",
+        "moeilijkheid": "3b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sustenbruggli - sector D-E",
+        "routenaam": "www.alpenteuer",
+        "datum": "aug-05",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Montorfano": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Montorfano",
+        "routenaam": "Misura",
+        "datum": "aug-05",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Montorfano",
+        "routenaam": "Prima via",
+        "datum": "aug-05",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Montorfano",
+        "routenaam": "Senza nome",
+        "datum": "aug-05",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Montorfano",
+        "routenaam": "Bricchetta",
+        "datum": "aug-05",
+        "moeilijkheid": "5c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Montorfano",
+        "routenaam": "Insubria",
+        "datum": "aug-05",
+        "moeilijkheid": "5a+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Montorfano",
+        "routenaam": "Spigolo Forni",
+        "datum": "aug-05",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Mottarone": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Mottarone",
+        "routenaam": "Baca biut",
+        "datum": "aug-05",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Mottarone",
+        "routenaam": "Ozzola",
+        "datum": "aug-05",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Mottarone",
+        "routenaam": "Slix",
+        "datum": "aug-05",
+        "moeilijkheid": "4a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "voor"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Mottarone",
+        "routenaam": "Per provare",
+        "datum": "aug-05",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy na",
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Mottarone",
+        "routenaam": "Prima bassi",
+        "datum": "aug-05",
+        "moeilijkheid": "4a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "voor (half)",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Mottarone",
+        "routenaam": "Via del Topo",
+        "datum": "aug-05",
+        "moeilijkheid": "3c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Mottarone",
+        "routenaam": "Sole mio",
+        "datum": "aug-05",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Mottarone",
+        "routenaam": "Ballacon lupo",
+        "datum": "aug-05",
+        "moeilijkheid": "5c+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Premia": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Premia",
+        "routenaam": "Mary nei sogni",
+        "datum": "aug-05",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Premia",
+        "routenaam": "Biospital",
+        "datum": "aug-05",
+        "moeilijkheid": "5b+",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Premia",
+        "routenaam": "Anime fiammeggianti",
+        "datum": "aug-05",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Premia",
+        "routenaam": "Walzer",
+        "datum": "aug-05",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Premia",
+        "routenaam": "Rumba",
+        "datum": "aug-05",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Premia",
+        "routenaam": "Grande Illusione",
+        "datum": "aug-05",
+        "moeilijkheid": "6a+",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na (hulp)",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Premia",
+        "routenaam": "Tango",
+        "datum": "aug-05",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Premia",
+        "routenaam": "Senza nome",
+        "datum": "aug-05",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Fieschertal": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Fieschertal",
+        "routenaam": "Elaneu",
+        "datum": "aug-05",
+        "moeilijkheid": "4b",
+        "lengte": "110 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": "4a, 4a, 4b"
+      },
+      {
+        "gebied": "Fieschertal",
+        "routenaam": "Frederico",
+        "datum": "aug-05",
+        "moeilijkheid": "5b",
+        "lengte": "30 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Gletsch": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Gletsch",
+        "routenaam": "rachts umi",
+        "datum": "aug-05",
+        "moeilijkheid": "4b",
+        "lengte": "35 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gletsch",
+        "routenaam": "Fluchtweg",
+        "datum": "aug-05",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gletsch",
+        "routenaam": "KiBe",
+        "datum": "aug-05",
+        "moeilijkheid": "4a",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gletsch",
+        "routenaam": "zum Block",
+        "datum": "aug-05",
+        "moeilijkheid": "4b",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gletsch",
+        "routenaam": "Block",
+        "datum": "aug-05",
+        "moeilijkheid": "6a+",
+        "lengte": "4 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na (hulp)",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Sustenbruggli - sector C": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sustenbruggli - sector C",
+        "routenaam": "Hexenbessen (1e en 2e l.)",
+        "datum": "aug-05",
+        "moeilijkheid": "5b (5a)",
+        "lengte": "40 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5b, 5a"
+      }
+    ]
+  },
+  "Wissberg": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Wissberg",
+        "routenaam": "Azuro",
+        "datum": "aug-05",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Wissberg",
+        "routenaam": "Anouk",
+        "datum": "aug-05",
+        "moeilijkheid": "5b+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Wissberg",
+        "routenaam": "Enja",
+        "datum": "aug-05",
+        "moeilijkheid": "5c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Wissberg",
+        "routenaam": "Oasis",
+        "datum": "aug-05",
+        "moeilijkheid": "5a (5b)",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Melchsee-Frutt": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Melchsee-Frutt",
+        "routenaam": "Thymian",
+        "datum": "aug-05",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Melchsee-Frutt",
+        "routenaam": "Basilicum",
+        "datum": "aug-05",
+        "moeilijkheid": "5c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Melchsee-Frutt",
+        "routenaam": "Hopp da Bassa",
+        "datum": "aug-05",
+        "moeilijkheid": "3b",
+        "lengte": "10 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Melchsee-Frutt",
+        "routenaam": "Stagli",
+        "datum": "aug-05",
+        "moeilijkheid": "4a",
+        "lengte": "10 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

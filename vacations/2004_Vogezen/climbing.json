@@ -1,0 +1,248 @@
+{
+  "Vieux Gueberschwihr": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Vieux Gueberschwihr",
+        "routenaam": "nr. 27",
+        "datum": "mei-04",
+        "moeilijkheid": "3a",
+        "lengte": "7 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vieux Gueberschwihr",
+        "routenaam": "nr. 29",
+        "datum": "mei-04",
+        "moeilijkheid": "3a",
+        "lengte": "7 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vieux Gueberschwihr",
+        "routenaam": "nr. 50",
+        "datum": "mei-04",
+        "moeilijkheid": "4b/(c)",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vieux Gueberschwihr",
+        "routenaam": "Blocs enfants",
+        "datum": "mei-04",
+        "moeilijkheid": "2",
+        "lengte": "5 m",
+        "zeker": NaN,
+        "kenmerk": "graat",
+        "rots": "zand",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Clochers du Petit Hohneck": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Clochers du Petit Hohneck",
+        "routenaam": "Les Diedres",
+        "datum": "mei-04",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "spleet",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Nouveau Gueberschwihr": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Dalle",
+        "datum": "mei-04",
+        "moeilijkheid": "4a/(b)",
+        "lengte": "14 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Filou",
+        "datum": "mei-04",
+        "moeilijkheid": "5a",
+        "lengte": "14 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Courte Echelle",
+        "datum": "mei-04",
+        "moeilijkheid": "5b",
+        "lengte": "14 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "zand",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Mars Sprite",
+        "datum": "mei-04",
+        "moeilijkheid": "5c",
+        "lengte": "14 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "zand",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "La balade a Nani",
+        "datum": "mei-04",
+        "moeilijkheid": "5a",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Magali",
+        "datum": "mei-04",
+        "moeilijkheid": "5b",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "??",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

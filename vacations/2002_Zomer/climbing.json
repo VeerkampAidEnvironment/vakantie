@@ -1,0 +1,289 @@
+{
+  "Bessans": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Bessans",
+        "routenaam": "??",
+        "datum": "jul-02",
+        "moeilijkheid": "4",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Col de la Madeleine": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Col de la Madeleine",
+        "routenaam": "??",
+        "datum": "jul-02",
+        "moeilijkheid": "4-",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Col de la Madeleine",
+        "routenaam": "??",
+        "datum": "jul-02",
+        "moeilijkheid": "4+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "La Grave, Saut de la Rucelle": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "La Grave, Saut de la Rucelle",
+        "routenaam": "??",
+        "datum": "jul-02",
+        "moeilijkheid": "5-",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Nevache": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Nevache",
+        "routenaam": "Arete",
+        "datum": "jul-02",
+        "moeilijkheid": "3",
+        "lengte": "8 m",
+        "zeker": NaN,
+        "kenmerk": "graat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nevache",
+        "routenaam": "face sud",
+        "datum": "jul-02",
+        "moeilijkheid": "4",
+        "lengte": "8 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nevache",
+        "routenaam": "??",
+        "datum": "jul-02",
+        "moeilijkheid": "3-",
+        "lengte": "5 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Plampinet": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Plampinet",
+        "routenaam": "??",
+        "datum": "jul-02",
+        "moeilijkheid": "4+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Plampinet",
+        "routenaam": "??",
+        "datum": "jul-02",
+        "moeilijkheid": "5",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Saleina": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Saleina",
+        "routenaam": "??",
+        "datum": "aug-02",
+        "moeilijkheid": "5-",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Sixt-Fer-a-Cheval": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sixt-Fer-a-Cheval",
+        "routenaam": "??",
+        "datum": "aug-02",
+        "moeilijkheid": "4",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sixt-Fer-a-Cheval",
+        "routenaam": "??",
+        "datum": "aug-02",
+        "moeilijkheid": "5-",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

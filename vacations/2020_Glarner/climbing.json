@@ -1,0 +1,380 @@
+{
+  "Falkenstein": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "Traminer",
+        "datum": "aug-20",
+        "moeilijkheid": "3c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "L'anormale",
+        "datum": "aug-20",
+        "moeilijkheid": "4a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "L'anormale (2l)",
+        "datum": "aug-20",
+        "moeilijkheid": "4a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "Gewurtz",
+        "datum": "aug-20",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "Vendages Tardives",
+        "datum": "aug-20",
+        "moeilijkheid": "4c",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "L'arete du Brischbach",
+        "datum": "aug-20",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "Le Petit diedre",
+        "datum": "aug-20",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "Les dalles",
+        "datum": "aug-20",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falkenstein",
+        "routenaam": "Gewurtz",
+        "datum": "aug-20",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Bruggler": {
+    "coords": [
+      47.116014,
+      8.98527
+    ],
+    "routes": [
+      {
+        "gebied": "Bruggler",
+        "routenaam": "Dornroschen",
+        "datum": "aug-20",
+        "moeilijkheid": "5a",
+        "lengte": "150 m",
+        "zeker": "gut",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "5 lengtes",
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": "5a, 4b, 4c, 4b"
+      },
+      {
+        "gebied": "Bruggler",
+        "routenaam": "Grune Plattenwand (Nomis 5e l)",
+        "datum": "aug-20",
+        "moeilijkheid": "5b",
+        "lengte": "200 m",
+        "zeker": "gut",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "6 lengtes",
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": "4c, 4b, 4c, 5a, 5b, 4b"
+      }
+    ]
+  },
+  "Niemerstafel": {
+    "coords": [
+      46.866259,
+      8.846421
+    ],
+    "routes": [
+      {
+        "gebied": "Niemerstafel",
+        "routenaam": "Speed Oldie",
+        "datum": "aug-20",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Niemerstafel",
+        "routenaam": "Rheingold",
+        "datum": "aug-20",
+        "moeilijkheid": "5a+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Niemerstafel",
+        "routenaam": "Die Prinzessin",
+        "datum": "aug-20",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Niemerstafel",
+        "routenaam": "Copkiller",
+        "datum": "aug-20",
+        "moeilijkheid": "6a+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Niemerstafel",
+        "routenaam": "Endraum",
+        "datum": "aug-20",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Niemerstafel",
+        "routenaam": "Schopfungsschrei",
+        "datum": "aug-20",
+        "moeilijkheid": "6b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "poging",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

@@ -1,0 +1,724 @@
+{
+  "La Duchere, Amphitheatre": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "La Duchere, Amphitheatre",
+        "routenaam": "Bibi ?",
+        "datum": "jul-08",
+        "moeilijkheid": "4a",
+        "lengte": "12 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Duchere, Amphitheatre",
+        "routenaam": "Tantan ?",
+        "datum": "jul-08",
+        "moeilijkheid": "4c",
+        "lengte": "14 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "La Duchere, le Lys": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "La Duchere, le Lys",
+        "routenaam": "Les Gentianes",
+        "datum": "jul-08",
+        "moeilijkheid": "5a",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Duchere, le Lys",
+        "routenaam": "Les Pensees",
+        "datum": "jul-08",
+        "moeilijkheid": "5b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Duchere, le Lys",
+        "routenaam": "Les Cyclames",
+        "datum": "jul-08",
+        "moeilijkheid": "5c",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "?",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "?",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Duchere, le Lys",
+        "routenaam": "Les Joubardes",
+        "datum": "jul-08",
+        "moeilijkheid": "5c",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Duchere, le Lys",
+        "routenaam": "Les benoites",
+        "datum": "jul-08",
+        "moeilijkheid": "6a+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Duchere, le Lys",
+        "routenaam": "Les Rhodos",
+        "datum": "jul-08",
+        "moeilijkheid": "4c",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Duchere, le Lys",
+        "routenaam": "Les Jonquilles",
+        "datum": "jul-08",
+        "moeilijkheid": "3c",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Duchere, le Lys",
+        "routenaam": "Le lys",
+        "datum": "jul-08",
+        "moeilijkheid": "3b",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Vallorcine, Ecole d' escalade": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Vallorcine, Ecole d' escalade",
+        "routenaam": NaN,
+        "datum": "jul-08",
+        "moeilijkheid": "4b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vallorcine, Ecole d' escalade",
+        "routenaam": NaN,
+        "datum": "jul-08",
+        "moeilijkheid": "5a",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vallorcine, Ecole d' escalade",
+        "routenaam": NaN,
+        "datum": "jul-08",
+        "moeilijkheid": "4c",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vallorcine, Ecole d' escalade",
+        "routenaam": "links 1",
+        "datum": "jul-08",
+        "moeilijkheid": "4a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vallorcine, Ecole d' escalade",
+        "routenaam": "links 2",
+        "datum": "jul-08",
+        "moeilijkheid": "4a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vallorcine, Ecole d' escalade",
+        "routenaam": "dak 1",
+        "datum": "jul-08",
+        "moeilijkheid": "5b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Vallorcine, Ecole d' escalade",
+        "routenaam": "dak 2",
+        "datum": "jul-08",
+        "moeilijkheid": "5b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Les Cheserys": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Les Cheserys",
+        "routenaam": "Dune",
+        "datum": "jul-08",
+        "moeilijkheid": "6a",
+        "lengte": "160 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5c, 5c, 6a, 5b"
+      },
+      {
+        "gebied": "Les Cheserys",
+        "routenaam": "Sur les fils",
+        "datum": "jul-08",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Les Cheserys",
+        "routenaam": "Bleue direct start",
+        "datum": "jul-08",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Les Cheserys",
+        "routenaam": "Voie Blanche (1 t/m 3)",
+        "datum": "jul-08",
+        "moeilijkheid": "5b",
+        "lengte": "65 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5b, 4a, 5b"
+      },
+      {
+        "gebied": "Les Cheserys",
+        "routenaam": "No name 2e lengte",
+        "datum": "jul-08",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Vallorcine": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Vallorcine",
+        "routenaam": "L' ile aux razmokets (1 t/m 7)",
+        "datum": "jul-08",
+        "moeilijkheid": "6a (5c)",
+        "lengte": "250 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5a+, 5c, 6a, 4c, 5b+, 4c, 5b"
+      }
+    ]
+  },
+  "Barberine": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Barberine",
+        "routenaam": NaN,
+        "datum": "jul-08",
+        "moeilijkheid": "5c/6a",
+        "lengte": "110 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4c, 5c, 5a"
+      },
+      {
+        "gebied": "Barberine",
+        "routenaam": NaN,
+        "datum": "jul-08",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Jagihorn": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Jagihorn",
+        "routenaam": "Panorama",
+        "datum": "jul-08",
+        "moeilijkheid": "5a/b",
+        "lengte": "350 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4b, 4c, 3, 4b, 4c, 4c, 4c, 4c, 4b, 4c, 4c, 4b, 4c, 4b"
+      }
+    ]
+  },
+  "Lavorgo": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Lavorgo",
+        "routenaam": "ZZ",
+        "datum": "jul-08",
+        "moeilijkheid": "4c, pas 5b",
+        "lengte": "200 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4b, 4c, 4b, 4b, 5b, 3a"
+      }
+    ]
+  },
+  "Sustenbrugli": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sustenbrugli",
+        "routenaam": "Gluckspirale",
+        "datum": "jul-08",
+        "moeilijkheid": "5a (4c)",
+        "lengte": "35 m",
+        "zeker": "gut",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sustenbrugli",
+        "routenaam": NaN,
+        "datum": "jul-08",
+        "moeilijkheid": "4a (4b)",
+        "lengte": "30 m",
+        "zeker": "gut",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sustenbrugli",
+        "routenaam": "Murmeltango ",
+        "datum": "jul-08",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": "gut",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Gerstenegg, Azalee Beach": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Gerstenegg, Azalee Beach",
+        "routenaam": "Grimsel life (1e l.)",
+        "datum": "jul-08",
+        "moeilijkheid": "5a",
+        "lengte": "35 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gerstenegg, Azalee Beach",
+        "routenaam": "Hardopfel",
+        "datum": "jul-08",
+        "moeilijkheid": "5c",
+        "lengte": "130 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5a, 5b, 5c, 5b"
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "Sasso Bianco": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sasso Bianco",
+        "routenaam": "Normale",
+        "datum": "okt-07",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso Bianco",
+        "routenaam": "Diedrini",
+        "datum": "okt-07",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso Bianco",
+        "routenaam": "Panzeri",
+        "datum": "okt-07",
+        "moeilijkheid": "5c+",
+        "lengte": "55 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Zucco dell'Angelo": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Zucco dell'Angelo",
+        "routenaam": "Crepa somaro",
+        "datum": "okt-07",
+        "moeilijkheid": "4b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "eerder 4c"
+      },
+      {
+        "gebied": "Zucco dell'Angelo",
+        "routenaam": "Senza nome",
+        "datum": "okt-07",
+        "moeilijkheid": "5b-",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Zucco dell'Angelo",
+        "routenaam": "Bombay",
+        "datum": "okt-07",
+        "moeilijkheid": "5c+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Zucco dell'Angelo",
+        "routenaam": "Via del Verme",
+        "datum": "okt-07",
+        "moeilijkheid": "5a",
+        "lengte": "85 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor & na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor & na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4c, 4a, 5a"
+      },
+      {
+        "gebied": "Zucco dell'Angelo",
+        "routenaam": "Sole, fiabe e freud (1e & 2e l.)",
+        "datum": "okt-07",
+        "moeilijkheid": "5b",
+        "lengte": "60 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor & na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor & na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4a, 5b"
+      }
+    ]
+  },
+  "Sasso del Drago": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Bongo",
+        "datum": "okt-07",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Bingo",
+        "datum": "okt-07",
+        "moeilijkheid": "5b+",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "La maestra",
+        "datum": "okt-07",
+        "moeilijkheid": "5b+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Gipeto",
+        "datum": "okt-07",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

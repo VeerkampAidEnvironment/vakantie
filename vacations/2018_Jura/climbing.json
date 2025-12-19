@@ -1,0 +1,410 @@
+{
+  "Nouveau Gueberschwihr": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Klimbim",
+        "datum": "sep-18",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Dalle",
+        "datum": "sep-18",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Filou",
+        "datum": "sep-18",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Rocher de la Paix": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Rocher de la Paix",
+        "routenaam": "La Trou",
+        "datum": "sep-18",
+        "moeilijkheid": "4b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher de la Paix",
+        "routenaam": "La Chemin?e",
+        "datum": "sep-18",
+        "moeilijkheid": "4b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher de la Paix",
+        "routenaam": "La Voie du Sapin/La Fourmi",
+        "datum": "sep-18",
+        "moeilijkheid": "4b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher de la Paix",
+        "routenaam": "Pierre coinc?e",
+        "datum": "sep-18",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Blanche-Neige": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Blanche-Neige",
+        "routenaam": "Simplet",
+        "datum": "sep-18",
+        "moeilijkheid": "4b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Blanche-Neige",
+        "routenaam": "Dormeur",
+        "datum": "sep-18",
+        "moeilijkheid": "4c",
+        "lengte": "30 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Blanche-Neige",
+        "routenaam": "Blanche-Neige",
+        "datum": "sep-18",
+        "moeilijkheid": "5a",
+        "lengte": "30 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Br?ggligr?te": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Br?ggligr?te",
+        "routenaam": "Edelgrat",
+        "datum": "sep-18",
+        "moeilijkheid": "4a",
+        "lengte": "160 m",
+        "zeker": "so so",
+        "kenmerk": "graat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Br?ggligr?te",
+        "routenaam": "Zuckerstock",
+        "datum": "sep-18",
+        "moeilijkheid": "4c",
+        "lengte": "45 m",
+        "zeker": "gut",
+        "kenmerk": "pijler",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Klus-Balsthal, sector D": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Klus-Balsthal, sector D",
+        "routenaam": "Kleine F?hre",
+        "datum": "sep-18",
+        "moeilijkheid": "4c+/5a",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Klus-Balsthal, sector D",
+        "routenaam": "Sunntigs T?rli",
+        "datum": "sep-18",
+        "moeilijkheid": "5a",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Klus-Balsthal, sector E": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Klus-Balsthal, sector E",
+        "routenaam": "K?rnige Platte",
+        "datum": "sep-18",
+        "moeilijkheid": "5a",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Klus-Balsthal, sector E",
+        "routenaam": "Stifthakenplatte",
+        "datum": "sep-18",
+        "moeilijkheid": "5b",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Klus-Balsthal, sector E",
+        "routenaam": "Moosplatte",
+        "datum": "sep-18",
+        "moeilijkheid": "4c",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": "pijler",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Klus-Balsthal, sector E",
+        "routenaam": "Delago",
+        "datum": "sep-18",
+        "moeilijkheid": "5b",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": "pijler",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{% extends "base.html" %}
+{% block content %}
+
+<style>
+/* =========================
+   Sidebar Styles
+   ========================= */
+#container {
+  position: relative;
+  height: 100vh;
+}
+
+#sidebar {
+  width: 320px;
+  background: #f4f6f8;
+  padding: 16px;
+  border-right: 1px solid #e0e0e0;
+  height: 100%;
+  overflow-y: auto;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  transition: transform 0.3s ease;
+}
+
+#sidebar.collapsed {
+  transform: translateX(-100%);
+}
+
+/* Toggle button inside sidebar */
+#toggle-sidebar {
+  position: absolute;
+  top: 10px;
+  right: -45px;
+  z-index: 11000;
+  border-radius: 6px;
+}
+
+/* Sidebar heading */
+#sidebar h3 {
+  margin-top: 0;
+  margin-bottom: 16px;
+  font-size: 20px;
+  font-weight: 700;
+  color: #2c3e50;
+  border-bottom: 2px solid #dce2e8;
+  padding-bottom: 6px;
+}
+
+/* Filter group general */
+.filter-group {
+  margin-bottom: 16px;
+}
+
+/* Year card style */
+.year-wrapper {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+  overflow: hidden;
+  margin-bottom: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.year-wrapper:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.12);
+}
+
+/* Year header */
+.collapsible {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 15px;
+  background: linear-gradient(90deg, #3498db 0%, #5dade2 100%);
+  color: #fff;
+  user-select: none;
+}
+
+.collapsible .arrow {
+  transition: transform 0.25s ease;
+}
+.collapsible.collapsed .arrow {
+  transform: rotate(-90deg);
+}
+
+/* Vacations inside year */
+.vacation-list {
+  padding: 10px 16px;
+  background: #fefefe;
+}
+
+.year-item {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 6px;
+  font-size: 14px;
+  color: #2c3e50;
+}
+
+/* Activities and participants */
+#activity-group, #participant-group {
+  background: #ffffff;
+  border-radius: 12px;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.08);
+  padding: 12px 14px;
+}
+
+/* Small buttons */
+button.small-btn {
+  font-size: 12px;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 6px;
+  background: #3498db;
+  color: #fff;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+button.small-btn:hover {
+  background: #2980b9;
+}
+
+/* Section subtext */
+.section-sub {
+  color: #7f8c8d;
+  font-size: 12px;
+  margin-top: 6px;
+  line-height: 1.4;
+}
+
+/* Map container */
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 75px;
+  right: 0;
+  transition: left 0.3s ease;
+  border-left: 1px solid #e0e0e0;
+  background: #e8edf1;
+  width: 70%;
+}
+
+#map.sidebar-collapsed {
+  left: 0;
+}
+
+/* Legend tweaks */
+.leaflet-control .legend {
+  max-width: 220px;
+  background: rgba(255,255,255,0.95);
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 13px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.15);
+}
+</style>
+
+<div id="container">
+  <button id="toggle-sidebar" class="small-btn" style="position:absolute; top:10px; left:10px; z-index:11000; width:25px">☰</button>
+  <div id="sidebar" aria-label="Filters sidebar">
+
+    <h3>Filters</h3>
+
+    <!-- Years -->
+    <div class="filter-group" id="year-group">
+      <div style="margin-bottom:8px; display:flex; justify-content:flex-end;">
+        <button id="select-all-years" class="small-btn">Select All Years</button>
+      </div>
+      <h4 style="margin-bottom: 6px;">Years</h4>
+      <div id="year-options"></div>
+      <div class="section-sub">Click a year to expand vacations. All years start deselected. Check vacations individually.</div>
+    </div>
+
+    <!-- Activities -->
+    <div class="filter-group" id="activity-group">
+      <h4>Activities <button class="small-btn select-all" data-target="activity">Select all</button></h4>
+      <div id="activity-options" class="vacation-list"></div>
+      <div class="section-sub">Activities are auto-selected at start but can be changed.</div>
+    </div>
+
+    <!-- Participants -->
+    <div class="filter-group" id="participant-group">
+      <h4>Participants <button class="small-btn select-all" data-target="participant">Select all</button></h4>
+      <div id="participant-options" class="vacation-list"></div>
+      <div class="section-sub">Participants are auto-selected at start but can be changed.</div>
+    </div>
+
+    <div style="margin-top:10px; display:flex; gap:6px;">
+      <button id="clear-all" class="small-btn">Clear All</button>
+      <button id="select-none" class="small-btn">Deselect All</button>
+    </div>
+
+    <div style="margin-top:12px; font-size:13px; color:#444;">
+      <div><strong>Notes</strong></div>
+      <div class="section-sub">Start with no years selected. Check vacations to display them on the map. Activities and participants are auto-selected but can be modified.</div>
+    </div>
+  </div>
+
+  <div id="map" role="application"></div>
+</div>
+
+<!-- Leaflet and plugins -->
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.simplify/1.0.1/leaflet.simplify.min.js"></script>
+<script src="{{ url_for('static', filename='js/map.js') }}"></script>
+
+<!-- Sidebar collapse JS -->
+<script>
+const toggleBtn = document.getElementById('toggle-sidebar');
+const sidebar = document.getElementById('sidebar');
+const mapDiv = document.getElementById('map');
+
+toggleBtn.addEventListener('click', () => {
+  sidebar.classList.toggle('collapsed');
+  mapDiv.classList.toggle('sidebar-collapsed');
+  // Adjust map size after animation
+  setTimeout(() => {
+    map.invalidateSize();
+  }, 310);
+});
+</script>
+
+{% endblock %}

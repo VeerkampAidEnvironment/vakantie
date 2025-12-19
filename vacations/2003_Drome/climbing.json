@@ -1,0 +1,222 @@
+{
+  "Ecole de la Graville": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Babas a l'ail",
+        "datum": "apr-03",
+        "moeilijkheid": "4a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": "Max voor het eerst zekerend"
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Operation casse-tete",
+        "datum": "apr-03",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "La Vebre",
+        "datum": "apr-03",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Monalisa",
+        "datum": "apr-03",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Cool",
+        "datum": "apr-03",
+        "moeilijkheid": "3",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "spleet",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ecole de la Graville",
+        "routenaam": "Toto",
+        "datum": "apr-03",
+        "moeilijkheid": "4a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Le Rocher des Abeilles": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Le Rocher des Abeilles",
+        "routenaam": "Domino",
+        "datum": "mei-03",
+        "moeilijkheid": "4c",
+        "lengte": "17 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Rocher des Abeilles",
+        "routenaam": "Ma brave dame",
+        "datum": "mei-03",
+        "moeilijkheid": "5b",
+        "lengte": "17 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Rocher des Abeilles",
+        "routenaam": "Les deux mains prises",
+        "datum": "mei-03",
+        "moeilijkheid": "5c",
+        "lengte": "17 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Rocher des Abeilles",
+        "routenaam": "Max",
+        "datum": "mei-03",
+        "moeilijkheid": "3+",
+        "lengte": "7 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

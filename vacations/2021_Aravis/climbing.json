@@ -1,0 +1,441 @@
+{
+  "La Breme": {
+    "coords": [
+      47.113846,
+      6.122509
+    ],
+    "routes": [
+      {
+        "gebied": "La Breme",
+        "routenaam": "La Bona (1e l)",
+        "datum": "aug-21",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Breme",
+        "routenaam": "La Bona rechts (1e l)",
+        "datum": "aug-21",
+        "moeilijkheid": "4b/c",
+        "lengte": "20 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Breme",
+        "routenaam": "L'Eperon (1e l)",
+        "datum": "aug-21",
+        "moeilijkheid": "3c",
+        "lengte": "20 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "?",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Breme",
+        "routenaam": "La Pollux",
+        "datum": "aug-21",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "?",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Breme",
+        "routenaam": "Le Benitier",
+        "datum": "aug-21",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "?",
+          "paul": "Paul",
+          "stijl_paul": "na ?",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Breme",
+        "routenaam": "Les Chevres",
+        "datum": "aug-21",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "?",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Falaise de la Colombiere": {
+    "coords": [
+      45.99357,
+      6.465809
+    ],
+    "routes": [
+      {
+        "gebied": "Falaise de la Colombiere",
+        "routenaam": "Oncle Sam (1e l.)",
+        "datum": "aug-21",
+        "moeilijkheid": "4b-",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor & na (zonder handen)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise de la Colombiere",
+        "routenaam": "Malheurs de Sophie (1e l)",
+        "datum": "aug-21",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise de la Colombiere",
+        "routenaam": "Le Carnotzets (1e l.)",
+        "datum": "aug-21",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Falaise de la Colombiere",
+        "routenaam": "Litteul Kevin",
+        "datum": "aug-21",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na & voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Dalle de la Rossiere": {
+    "coords": [
+      45.918666,
+      6.296971
+    ],
+    "routes": [
+      {
+        "gebied": "Dalle de la Rossiere",
+        "routenaam": "Capricorn (2e l ",
+        "datum": "aug-21",
+        "moeilijkheid": "5b/c",
+        "lengte": "140 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": "4c, 5b+, 5a, 5a"
+      }
+    ]
+  },
+  "Pointe de la Blonniere": {
+    "coords": [
+      45.8581,
+      6.45295
+    ],
+    "routes": [
+      {
+        "gebied": "Pointe de la Blonniere",
+        "routenaam": "Arete a Marion",
+        "datum": "aug-21",
+        "moeilijkheid": "4c, pass 5a",
+        "lengte": "400 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Grand Suites - Beauregard": {
+    "coords": [
+      44.7835,
+      6.56168
+    ],
+    "routes": [
+      {
+        "gebied": "Grand Suites - Beauregard",
+        "routenaam": "??",
+        "datum": "aug-21",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Grand Suites - Beauregard",
+        "routenaam": "??",
+        "datum": "aug-21",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Grand Suites - Beauregard",
+        "routenaam": "??",
+        "datum": "aug-21",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Grand Suites - Beauregard",
+        "routenaam": "??",
+        "datum": "aug-21",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na, steun",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Grand Suites - Beauregard",
+        "routenaam": "??",
+        "datum": "aug-21",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Grand Suites - Beauregard",
+        "routenaam": "??",
+        "datum": "aug-21",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Grand Suites - Beauregard",
+        "routenaam": "??",
+        "datum": "aug-21",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na, steun",
+          "sem": "Sem",
+          "stijl_sem": "poging",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

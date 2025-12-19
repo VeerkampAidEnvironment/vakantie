@@ -1,0 +1,24 @@
+# Images
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.webp
+*.svg
+*.MOV
+*.MP4
+
+# gpx files
+*.gpx
+
+# Python / PyCharm
+__pycache__/
+.venv/
+.idea/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db

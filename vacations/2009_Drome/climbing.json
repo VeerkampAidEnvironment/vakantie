@@ -1,0 +1,222 @@
+{
+  "La Ceyte Ouest: Soleil": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "La Ceyte Ouest: Soleil",
+        "routenaam": "Les Blues des Fourmis",
+        "datum": "okt-09",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Ceyte Ouest: Soleil",
+        "routenaam": "Christophe (topdeel)",
+        "datum": "okt-09",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Ceyte Ouest: Soleil",
+        "routenaam": "Viol collectif de 18h01",
+        "datum": "okt-09",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Ceyte Ouest: Soleil",
+        "routenaam": "Hold tight (onderdeel)",
+        "datum": "okt-09",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Ceyte Ouest: Soleil",
+        "routenaam": "Le pilier du soleil (1e l.)",
+        "datum": "okt-09",
+        "moeilijkheid": "5a",
+        "lengte": "30 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Ceyte Ouest: Soleil",
+        "routenaam": "Objectif terre",
+        "datum": "okt-09",
+        "moeilijkheid": "5b",
+        "lengte": "35 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Ceyte Ouest: Soleil",
+        "routenaam": "Check-up total",
+        "datum": "okt-09",
+        "moeilijkheid": "5a",
+        "lengte": "30 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Ceyte Ouest: Soleil",
+        "routenaam": "Quoi de neuf docteur?",
+        "datum": "okt-09",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Crest: Les Roches": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Crest: Les Roches",
+        "routenaam": "route 37",
+        "datum": "okt-09",
+        "moeilijkheid": "5a",
+        "lengte": "8 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Crest: Les Roches",
+        "routenaam": "route 35",
+        "datum": "okt-09",
+        "moeilijkheid": "5c",
+        "lengte": "8 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

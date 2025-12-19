@@ -1,0 +1,666 @@
+{
+  "Placche Di Messe": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Placche Di Messe",
+        "routenaam": "Insiemese",
+        "datum": "jul-07",
+        "moeilijkheid": "3c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche Di Messe",
+        "routenaam": "Nuovo Bambino Svezzato",
+        "datum": "jul-07",
+        "moeilijkheid": "5b",
+        "lengte": "10 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor (poging)",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Maloja": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Maloja",
+        "routenaam": "Nuspina",
+        "datum": "jul-07",
+        "moeilijkheid": "4a",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Maloja",
+        "routenaam": "Topas",
+        "datum": "jul-07",
+        "moeilijkheid": "4a/b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Val Minor": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Val Minor",
+        "routenaam": "Akte -X",
+        "datum": "jul-07",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Val Minor",
+        "routenaam": "Wu-Tan-Clan",
+        "datum": "jul-07",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Val Minor",
+        "routenaam": "Al Dente",
+        "datum": "jul-07",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Val Minor",
+        "routenaam": "Terror Heidi",
+        "datum": "jul-07",
+        "moeilijkheid": "5b (5c)",
+        "lengte": "40 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Val Minor",
+        "routenaam": "Red Bull (top)",
+        "datum": "jul-07",
+        "moeilijkheid": "5b (5c)",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Placche di Lirone": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Effe Tre Sport",
+        "datum": "jul-07",
+        "moeilijkheid": "5a+",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Magic Moment",
+        "datum": "jul-07",
+        "moeilijkheid": "5b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Erba Secca",
+        "datum": "jul-07",
+        "moeilijkheid": "5b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Pool",
+        "datum": "jul-07",
+        "moeilijkheid": "6a+",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Scivolo di Corte Terza": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Scivolo di Corte Terza",
+        "routenaam": "Senza Nome",
+        "datum": "jul-07",
+        "moeilijkheid": "5a",
+        "lengte": "45 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Scivolo di Corte Terza",
+        "routenaam": "Senza Nome",
+        "datum": "jul-07",
+        "moeilijkheid": "5b",
+        "lengte": "45 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Scivolo di Corte Terza",
+        "routenaam": "Quarzo",
+        "datum": "jul-07",
+        "moeilijkheid": "5c",
+        "lengte": "45 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Scivolo di Corte Terza",
+        "routenaam": "Filo D'Argento",
+        "datum": "jul-07",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Sasso del Drago": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Formicone",
+        "datum": "jul-07",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "L'elfo",
+        "datum": "jul-07",
+        "moeilijkheid": "5c+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Punta Albigna": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Punta Albigna",
+        "routenaam": "Moderne Zeiten",
+        "datum": "jul-07",
+        "moeilijkheid": "5a",
+        "lengte": "350 m",
+        "zeker": "so so",
+        "kenmerk": "wand",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor & na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor & na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4a, 4a, 5a, 4a, 5a, 4a, 4a, 5a, 4a, 3b, 5a"
+      }
+    ]
+  },
+  "Placche del Lago": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Placche del Lago",
+        "routenaam": "Wassersinfonie (1e l)",
+        "datum": "jul-07",
+        "moeilijkheid": "5a+",
+        "lengte": "30 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Steingletscher - Hotel sektor D": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Steingletscher - Hotel sektor D",
+        "routenaam": "Wundelloo",
+        "datum": "aug-07",
+        "moeilijkheid": "5b",
+        "lengte": "24 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Steingletscher - Hotel sektor D",
+        "routenaam": "Lindelloo",
+        "datum": "aug-07",
+        "moeilijkheid": "5a",
+        "lengte": "24 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Steingletscher - Hotel sektor D",
+        "routenaam": "Muggestutz",
+        "datum": "aug-07",
+        "moeilijkheid": "4b",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Steingletscher - Hotel sektor D",
+        "routenaam": "Lindi",
+        "datum": "aug-07",
+        "moeilijkheid": "5b+",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Raterichsboden": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Raterichsboden",
+        "routenaam": "Grimselstrom",
+        "datum": "aug-07",
+        "moeilijkheid": "5c",
+        "lengte": "350 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor & na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor & na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4a, 5a, 4c, 4b, 5a+, 5a+, 5c, 5b, 4c, 5c, 5c"
+      }
+    ]
+  },
+  "Steingletscher, sektor Hell": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Steingletscher, sektor Hell",
+        "routenaam": "Keusche Vroni",
+        "datum": "aug-07",
+        "moeilijkheid": "5a+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Steingletscher, sektor Hell",
+        "routenaam": "Route Soleil",
+        "datum": "aug-07",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Steingletscher, sektor Hell",
+        "routenaam": "Schwangere Lotti",
+        "datum": "aug-07",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

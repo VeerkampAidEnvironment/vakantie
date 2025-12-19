@@ -1,0 +1,49 @@
+{
+  "St.Anna": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "St.Anna",
+        "routenaam": "??",
+        "datum": "mei-00",
+        "moeilijkheid": "3-",
+        "lengte": "10 m",
+        "zeker": NaN,
+        "kenmerk": "spleet",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "St.Anna",
+        "routenaam": "??",
+        "datum": "mei-00",
+        "moeilijkheid": "3",
+        "lengte": "10 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

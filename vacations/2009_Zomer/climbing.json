@@ -1,0 +1,509 @@
+{
+  "Meiringen - Rotsteini": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Meiringen - Rotsteini",
+        "routenaam": "Churbis",
+        "datum": "jul-09",
+        "moeilijkheid": "4b",
+        "lengte": "12 m",
+        "zeker": "gut+",
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Meiringen - Rotsteini",
+        "routenaam": "Ventil",
+        "datum": "jul-09",
+        "moeilijkheid": "4c",
+        "lengte": "12 m",
+        "zeker": "gut+",
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Meiringen - Rotsteini",
+        "routenaam": "Sprenzelwand",
+        "datum": "jul-09",
+        "moeilijkheid": "4c",
+        "lengte": "12 m",
+        "zeker": "gut+",
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Meiringen - Rotsteini",
+        "routenaam": "Vegetarier",
+        "datum": "jul-09",
+        "moeilijkheid": "5a",
+        "lengte": "12 m",
+        "zeker": "gut+",
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Meiringen - Rotsteini",
+        "routenaam": "Knacker",
+        "datum": "jul-09",
+        "moeilijkheid": "5b",
+        "lengte": "12 m",
+        "zeker": "gut+",
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Steingletscher- sector Platten": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Steingletscher- sector Platten",
+        "routenaam": "Kante",
+        "datum": "jul-09",
+        "moeilijkheid": "4c",
+        "lengte": "35 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Steingletscher- sector Platten",
+        "routenaam": "Sunneschin",
+        "datum": "jul-09",
+        "moeilijkheid": "5a",
+        "lengte": "35 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Steingletscher- sector Platten",
+        "routenaam": "Himmel",
+        "datum": "jul-09",
+        "moeilijkheid": "5a",
+        "lengte": "35 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Steingletscher- sector Platten",
+        "routenaam": "Steinbrech",
+        "datum": "jul-09",
+        "moeilijkheid": "5b",
+        "lengte": "30 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Hintisberg": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Hintisberg",
+        "routenaam": "Schone aussichten (1e -3e l.)",
+        "datum": "jul-09",
+        "moeilijkheid": "5b",
+        "lengte": "90 m",
+        "zeker": "gut+",
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5b, 4c, 5b"
+      }
+    ]
+  },
+  "Sommerloch": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sommerloch",
+        "routenaam": "Greenhorn (1e - 5e l.)",
+        "datum": "jul-09",
+        "moeilijkheid": "4c",
+        "lengte": "150 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4a, 3c, 4a, 4b, 4c, 5a,"
+      }
+    ]
+  },
+  "Gerstenegg, Raterichsboden": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Gerstenegg, Raterichsboden",
+        "routenaam": "Chly Hax (1e l.)",
+        "datum": "jul-09",
+        "moeilijkheid": "4c",
+        "lengte": "40 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gerstenegg, Raterichsboden",
+        "routenaam": "Neuholz (1e-4e l.)",
+        "datum": "jul-09",
+        "moeilijkheid": "5a",
+        "lengte": "130 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "4c, 4b, 4c, 5a"
+      }
+    ]
+  },
+  "Gerstenegg, Azalee Beach": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Gerstenegg, Azalee Beach",
+        "routenaam": "Hardopfel (1e-3e l.)",
+        "datum": "jul-09",
+        "moeilijkheid": "5c",
+        "lengte": "90 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5a, 5b, 5c, regen"
+      }
+    ]
+  },
+  "Sanetsch, Barrage": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sanetsch, Barrage",
+        "routenaam": "Spaghetti Code",
+        "datum": "aug-09",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sanetsch, Barrage",
+        "routenaam": "Dr. Hit Hit",
+        "datum": "aug-09",
+        "moeilijkheid": "5b+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sanetsch, Barrage",
+        "routenaam": "Starkstrom",
+        "datum": "aug-09",
+        "moeilijkheid": "5b+",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Fieschertal, Sonnenplatte": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Fieschertal, Sonnenplatte",
+        "routenaam": "Tannen-riss",
+        "datum": "aug-09",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "gneiss",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "eerder 5b, tot 3/4"
+      },
+      {
+        "gebied": "Fieschertal, Sonnenplatte",
+        "routenaam": "Gonzo (1/2 l)",
+        "datum": "aug-09",
+        "moeilijkheid": "6a",
+        "lengte": "10 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "gneiss",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Fieschertal, Sonnenplatte",
+        "routenaam": "Erlen-riss",
+        "datum": "aug-09",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "gut+",
+        "kenmerk": NaN,
+        "rots": "gneiss",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "eerder 5a"
+      }
+    ]
+  },
+  "Tour d'Ai: Les Plans": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Tour d'Ai: Les Plans",
+        "routenaam": "Soldanelle",
+        "datum": "aug-09",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "eerder 5a"
+      },
+      {
+        "gebied": "Tour d'Ai: Les Plans",
+        "routenaam": "Rhodondendron",
+        "datum": "aug-09",
+        "moeilijkheid": "5c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "eerder 5b"
+      }
+    ]
+  }
+}

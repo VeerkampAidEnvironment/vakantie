@@ -1,0 +1,1100 @@
+{
+  "La Culaz": {
+    "coords": [
+      45.966855,
+      6.420571
+    ],
+    "routes": [
+      {
+        "gebied": "La Culaz",
+        "routenaam": "La Pomme empoisonnee",
+        "datum": "jun-25",
+        "moeilijkheid": "4a",
+        "lengte": "14 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem voor",
+          "stijl_sem": NaN,
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Geo trouvetou",
+        "datum": "jun-25",
+        "moeilijkheid": "4a",
+        "lengte": "12 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Les castors juniors",
+        "datum": "jun-25",
+        "moeilijkheid": "4a",
+        "lengte": "14 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Dingo",
+        "datum": "jun-25",
+        "moeilijkheid": "5a",
+        "lengte": "10 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "?",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "?",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Les Rapetous",
+        "datum": "jun-25",
+        "moeilijkheid": "5b",
+        "lengte": "11 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Peggy la cochonne",
+        "datum": "jun-25",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "?",
+          "sem": "Sem",
+          "stijl_sem": "?",
+          "paul": "Paul",
+          "stijl_paul": "?",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "L'Histoire des arcas utres",
+        "datum": "jun-25",
+        "moeilijkheid": "6a",
+        "lengte": "12 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Les bidochons",
+        "datum": "jun-25",
+        "moeilijkheid": "5c",
+        "lengte": "14 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Pour quelques fillards de plus",
+        "datum": "jun-25",
+        "moeilijkheid": "5a",
+        "lengte": "16 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Lou brafaudi",
+        "datum": "jun-25",
+        "moeilijkheid": "5a",
+        "lengte": "16 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Les manoilles en folie",
+        "datum": "jun-25",
+        "moeilijkheid": "4c+",
+        "lengte": "17 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Fais-toi plaisir",
+        "datum": "jun-25",
+        "moeilijkheid": "5b+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Des pates et des rizs",
+        "datum": "jun-25",
+        "moeilijkheid": "6b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "La noval",
+        "datum": "jun-25",
+        "moeilijkheid": "5c",
+        "lengte": "17 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Casse tete",
+        "datum": "jun-25",
+        "moeilijkheid": "6c",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "A r'culer jusque a les arbres",
+        "datum": "jun-25",
+        "moeilijkheid": "6b+",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Goulotte boulotte",
+        "datum": "jun-25",
+        "moeilijkheid": "6a",
+        "lengte": "17 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Culaz",
+        "routenaam": "Un manigodin pas comme les autres",
+        "datum": "jun-25",
+        "moeilijkheid": "6b ",
+        "lengte": "13 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "La colombiere": {
+    "coords": [
+      45.99637,
+      6.4715
+    ],
+    "routes": [
+      {
+        "gebied": "La colombiere",
+        "routenaam": "L'espace blue entre les nuages",
+        "datum": "jun-25",
+        "moeilijkheid": "4c",
+        "lengte": "19 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "Litteul Kevin",
+        "datum": "jun-25",
+        "moeilijkheid": "5b",
+        "lengte": "18 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "Bois-Joli",
+        "datum": "jun-25",
+        "moeilijkheid": "5b+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "Cactus",
+        "datum": "jun-25",
+        "moeilijkheid": "5c",
+        "lengte": "37 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "Le gillpaete glabre",
+        "datum": "jun-25",
+        "moeilijkheid": "5b",
+        "lengte": "37 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "Merci Florent",
+        "datum": "jun-25",
+        "moeilijkheid": "5c",
+        "lengte": "28 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "na (steun)",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "L'Marte d'Fanfoue",
+        "datum": "jun-25",
+        "moeilijkheid": "6a+",
+        "lengte": "26 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "Strategique",
+        "datum": "jun-25",
+        "moeilijkheid": "6b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "Tout a carapaton",
+        "datum": "jun-25",
+        "moeilijkheid": "4c",
+        "lengte": "50 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": "Paul ",
+          "stijl_paul": "voor/na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "La fissure a Nounours",
+        "datum": "jun-25",
+        "moeilijkheid": "5b",
+        "lengte": "50 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor/na",
+          "sem": "Sem",
+          "stijl_sem": "voor/na",
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La colombiere",
+        "routenaam": "Joss l'epandeur",
+        "datum": "jun-25",
+        "moeilijkheid": "6c",
+        "lengte": "12 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "La Forclaz": {
+    "coords": [
+      45.951603,
+      6.41844
+    ],
+    "routes": [
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "Le noeud de mule",
+        "datum": "jun-25",
+        "moeilijkheid": "4c+",
+        "lengte": "10 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "La queue de vache",
+        "datum": "jun-25",
+        "moeilijkheid": "4c",
+        "lengte": "8 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "Pof Story",
+        "datum": "jun-25",
+        "moeilijkheid": "5a",
+        "lengte": "8m ",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "Cool",
+        "datum": "jun-25",
+        "moeilijkheid": "5c",
+        "lengte": "12 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "Gaz",
+        "datum": "jun-25",
+        "moeilijkheid": "5c",
+        "lengte": "11 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "Yes",
+        "datum": "jun-25",
+        "moeilijkheid": "6a",
+        "lengte": "13 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "Zen",
+        "datum": "jun-25",
+        "moeilijkheid": "6a",
+        "lengte": "11 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "Meli",
+        "datum": "jun-25",
+        "moeilijkheid": "6a",
+        "lengte": "14 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "La Forclaz",
+        "routenaam": "Melo",
+        "datum": "jun-25",
+        "moeilijkheid": "6c+",
+        "lengte": "11 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "poging",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Rocher des Aravis": {
+    "coords": [
+      45.882745,
+      6.447343
+    ],
+    "routes": [
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "La Cage",
+        "datum": "jun-25",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "Pollen",
+        "datum": "jun-25",
+        "moeilijkheid": "5c+",
+        "lengte": "21 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "Les quatre vents",
+        "datum": "jun-25",
+        "moeilijkheid": "6a",
+        "lengte": "21 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "Etrange fascination",
+        "datum": "jun-25",
+        "moeilijkheid": "6b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "Marcel premier",
+        "datum": "jun-25",
+        "moeilijkheid": "6b",
+        "lengte": "9m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "Le nez",
+        "datum": "jun-25",
+        "moeilijkheid": "5a+",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "La grotte",
+        "datum": "jun-25",
+        "moeilijkheid": "5b",
+        "lengte": "13 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "Autoroute/chemin innocence combi",
+        "datum": "jun-25",
+        "moeilijkheid": "6a+",
+        "lengte": "26 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "3 longueurs en 2",
+        "datum": "jun-25",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": NaN,
+          "stijl_max": NaN,
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher des Aravis",
+        "routenaam": "Le reve de Jean-Pierre",
+        "datum": "jun-25",
+        "moeilijkheid": "6b",
+        "lengte": "30 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": NaN,
+          "stijl_sem": NaN,
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Pointe Dzerat - Colombiere": {
+    "coords": [
+      45.99637,
+      6.4715
+    ],
+    "routes": [
+      {
+        "gebied": "Pointe Dzerat - Colombiere",
+        "routenaam": "Les demoiselles du Grand Bo",
+        "datum": "jun-25",
+        "moeilijkheid": "5b+",
+        "lengte": "290 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor/na",
+          "sem": "Sem",
+          "stijl_sem": "voor/na",
+          "paul": "Paul",
+          "stijl_paul": "voor/na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Jalouvre": {
+    "coords": [
+      45.986633,
+      6.460122
+    ],
+    "routes": [
+      {
+        "gebied": "Jalouvre",
+        "routenaam": "Les Miss",
+        "datum": "jun-25",
+        "moeilijkheid": "5c",
+        "lengte": "400 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor/na",
+          "sem": "Sem",
+          "stijl_sem": "voor/na",
+          "paul": "Paul",
+          "stijl_paul": "voor/na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

@@ -1,0 +1,641 @@
+{
+  "Barme": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Barme",
+        "routenaam": "Les Jonquilles",
+        "datum": "jul-04",
+        "moeilijkheid": "4b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Barme",
+        "routenaam": "Anne-Marie",
+        "datum": "jul-04",
+        "moeilijkheid": "4b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "St-Triphon": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "St-Triphon",
+        "routenaam": "Pigeon Vote",
+        "datum": "jul-04",
+        "moeilijkheid": "5a/b",
+        "lengte": "11 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "St-Triphon",
+        "routenaam": "Body Blues",
+        "datum": "jul-04",
+        "moeilijkheid": "4c",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "St-Triphon",
+        "routenaam": "Sur-Nickel",
+        "datum": "jul-04",
+        "moeilijkheid": "5c",
+        "lengte": "8 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Pierre du Moelle": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Salut Quentin (4 l.)",
+        "datum": "jul-04",
+        "moeilijkheid": "4c",
+        "lengte": "120 m",
+        "zeker": NaN,
+        "kenmerk": "div",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": "3c, 4c, 3b, 4b"
+      },
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Petit Pilier",
+        "datum": "jul-04",
+        "moeilijkheid": "5c",
+        "lengte": "14 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Cheveche",
+        "datum": "jul-04",
+        "moeilijkheid": "5b",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Oisilon",
+        "datum": "jul-04",
+        "moeilijkheid": "5b",
+        "lengte": "14 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Hulotte",
+        "datum": "jul-04",
+        "moeilijkheid": "5a",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Choucas",
+        "datum": "jul-04",
+        "moeilijkheid": "5b",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Corneille",
+        "datum": "jul-04",
+        "moeilijkheid": "5b",
+        "lengte": "14 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Soleil",
+        "datum": "jul-04",
+        "moeilijkheid": "4a",
+        "lengte": "14 m",
+        "zeker": NaN,
+        "kenmerk": "spleet",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Pierre du Moelle",
+        "routenaam": "Poulet",
+        "datum": "jul-04",
+        "moeilijkheid": "5b",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "spleet",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Valle di Gorduno": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Valle di Gorduno",
+        "routenaam": "Freccia gialla",
+        "datum": "aug-04",
+        "moeilijkheid": "5b+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (hulp)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Valle di Gorduno",
+        "routenaam": "Fantasia",
+        "datum": "aug-04",
+        "moeilijkheid": "5a",
+        "lengte": "24 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Valle di Gorduno",
+        "routenaam": "Legeresse (1e l.)",
+        "datum": "aug-04",
+        "moeilijkheid": "4c",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Valle di Gorduno",
+        "routenaam": "Titanic (1e l.)",
+        "datum": "aug-04",
+        "moeilijkheid": "4c",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Valle di Gorduno",
+        "routenaam": "Puffosa",
+        "datum": "aug-04",
+        "moeilijkheid": "5a-",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Valle di Gorduno",
+        "routenaam": "Puffetta",
+        "datum": "aug-04",
+        "moeilijkheid": "5a+",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Valle di Gorduno",
+        "routenaam": "Cercasi Disperamenta Appiglio",
+        "datum": "aug-04",
+        "moeilijkheid": "6a",
+        "lengte": "24 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na (hulp)"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Valle di Gorduno",
+        "routenaam": "Moccoli - freccia blue",
+        "datum": "aug-04",
+        "moeilijkheid": "4b/(c)",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Meiringen - Beretli": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Meiringen - Beretli",
+        "routenaam": "Muus",
+        "datum": "aug-04",
+        "moeilijkheid": "5a+",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy ",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Meiringen - Beretli",
+        "routenaam": "Amadisli",
+        "datum": "aug-04",
+        "moeilijkheid": "4c",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy ",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Gerstenegg, Azalee Beach": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Gerstenegg, Azalee Beach",
+        "routenaam": "Traverse stupid (1e l.)",
+        "datum": "aug-04",
+        "moeilijkheid": "5a",
+        "lengte": "22 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gerstenegg, Azalee Beach",
+        "routenaam": "Hardopfel (4 l.)",
+        "datum": "aug-04",
+        "moeilijkheid": "5c",
+        "lengte": "120 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5a, 5b, 5c, 5b"
+      },
+      {
+        "gebied": "Gerstenegg, Azalee Beach",
+        "routenaam": "Azalee Beach (1e  l.)",
+        "datum": "aug-04",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gerstenegg, Azalee Beach",
+        "routenaam": "Wasserkraft (1e  l.)",
+        "datum": "aug-04",
+        "moeilijkheid": "5c+",
+        "lengte": "30 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Gerstenegg, Azalee Beach",
+        "routenaam": "Grimsel plus (1e l.)",
+        "datum": "aug-04",
+        "moeilijkheid": "6a",
+        "lengte": "30 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "Ith, Hohenstein": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Ith, Hohenstein",
+        "routenaam": "spleet",
+        "datum": "jun-05",
+        "moeilijkheid": "4+",
+        "lengte": "8 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ith, Hohenstein",
+        "routenaam": "wandje",
+        "datum": "jun-05",
+        "moeilijkheid": "3",
+        "lengte": "8 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ith, Hohenstein",
+        "routenaam": "grote wand",
+        "datum": "jun-05",
+        "moeilijkheid": "4-",
+        "lengte": "16 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Ith, Lauensteiner klippen": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Ith, Lauensteiner klippen",
+        "routenaam": "??",
+        "datum": "jun-05",
+        "moeilijkheid": "5-",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ith, Lauensteiner klippen",
+        "routenaam": "??",
+        "datum": "jun-05",
+        "moeilijkheid": "5",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "overhang",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (hulp)",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ith, Lauensteiner klippen",
+        "routenaam": "??",
+        "datum": "jun-05",
+        "moeilijkheid": "5",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "pijler",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

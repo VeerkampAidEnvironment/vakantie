@@ -1,0 +1,589 @@
+{
+  "Nouveau Gueberschwihr": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Dalle",
+        "datum": "mei-06",
+        "moeilijkheid": "4a/b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul na",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Filou",
+        "datum": "mei-06",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na, steun",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Courte Echelle",
+        "datum": "mei-06",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max ",
+          "stijl_max": "na, steun",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Klimbim",
+        "datum": "mei-06",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Bal des debutants",
+        "datum": "mei-06",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Coup de tiques",
+        "datum": "mei-06",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Logotype",
+        "datum": "mei-06",
+        "moeilijkheid": "5c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "zand",
+        "klimmers": {
+          "max": "??",
+          "stijl_max": "??",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul ",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "La balade a Nani",
+        "datum": "mei-06",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem ",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Magali",
+        "datum": "mei-06",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Nouveau Gueberschwihr",
+        "routenaam": "Aurore",
+        "datum": "mei-06",
+        "moeilijkheid": "5c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "zand",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Le Hirnelestein": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Le Hirnelestein",
+        "routenaam": "Petit Duc (1e l.)",
+        "datum": "mei-06",
+        "moeilijkheid": "4a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "metamorf",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem ",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Hirnelestein",
+        "routenaam": "Grand Duc (1e l.)",
+        "datum": "mei-06",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "metamorf",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem ",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Hirnelestein",
+        "routenaam": "Chouette",
+        "datum": "mei-06",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "metamorf",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Hirnelestein",
+        "routenaam": "Rouge Gorge (1e l.)",
+        "datum": "mei-06",
+        "moeilijkheid": "3b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "metamorf",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Le Hirnelestein",
+        "routenaam": "Rossignol (1e l.)",
+        "datum": "mei-06",
+        "moeilijkheid": "3c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "metamorf",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem ",
+          "stijl_sem": "voor",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Roche du Cerf": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Roche du Cerf",
+        "routenaam": "La St.Jean",
+        "datum": "mei-06",
+        "moeilijkheid": "4c",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Gabbro",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche du Cerf",
+        "routenaam": "Concordia direct",
+        "datum": "mei-06",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Gabbro",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na, steun",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche du Cerf",
+        "routenaam": "Les terrasses (1e l.)",
+        "datum": "mei-06",
+        "moeilijkheid": "4b",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gabbro",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche du Cerf",
+        "routenaam": "PSI",
+        "datum": "mei-06",
+        "moeilijkheid": "5c/6a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gabbro",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na, steun",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche du Cerf",
+        "routenaam": "Grosse deguelasse",
+        "datum": "mei-06",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Gabbro",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche du Cerf",
+        "routenaam": "Rigolotte",
+        "datum": "mei-06",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Gabbro",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Roche de l'Ours": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Roche de l'Ours",
+        "routenaam": "Hop Aline",
+        "datum": "mei-06",
+        "moeilijkheid": "3c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "graat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche de l'Ours",
+        "routenaam": "Enlace moi idiot",
+        "datum": "mei-06",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche de l'Ours",
+        "routenaam": "Theatre de mur mur",
+        "datum": "mei-06",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche de l'Ours",
+        "routenaam": "Permis au point",
+        "datum": "mei-06",
+        "moeilijkheid": "5a",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": NaN,
+          "stijl_paul": NaN,
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche de l'Ours",
+        "routenaam": "OEufs a Nadeeige",
+        "datum": "mei-06",
+        "moeilijkheid": "5a (4c)",
+        "lengte": "18 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Roche de l'Ours",
+        "routenaam": "Florie",
+        "datum": "mei-06",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

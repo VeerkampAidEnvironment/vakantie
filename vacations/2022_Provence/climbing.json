@@ -1,0 +1,685 @@
+{
+  "Baume Rousse -Gauche Facile": {
+    "coords": [
+      44.302132,
+      5.282114
+    ],
+    "routes": [
+      {
+        "gebied": "Baume Rousse -Gauche Facile",
+        "routenaam": "Coin-Coin (1e l)",
+        "datum": "jun-22",
+        "moeilijkheid": "5c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse -Gauche Facile",
+        "routenaam": "Murmuroa",
+        "datum": "jun-22",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse -Gauche Facile",
+        "routenaam": "La Bavette Spatiale",
+        "datum": "jun-22",
+        "moeilijkheid": "6a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse -Gauche Facile",
+        "routenaam": "Le Diedre",
+        "datum": "jun-22",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse -Gauche Facile",
+        "routenaam": "Pleine Lune",
+        "datum": "jun-22",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Ubrieux - Six Symbol": {
+    "coords": [
+      44.29285,
+      5.28139
+    ],
+    "routes": [
+      {
+        "gebied": "Ubrieux - Six Symbol",
+        "routenaam": "La Grand Jo",
+        "datum": "jun-22",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ubrieux - Six Symbol",
+        "routenaam": "Bellissine",
+        "datum": "jun-22",
+        "moeilijkheid": "5c+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ubrieux - Six Symbol",
+        "routenaam": "Belle Nuit",
+        "datum": "jun-22",
+        "moeilijkheid": "6a+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ubrieux - Six Symbol",
+        "routenaam": "Post Natal",
+        "datum": "jun-22",
+        "moeilijkheid": "6a+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Ubrieux - Tschernobyl left": {
+    "coords": [
+      44.29285,
+      5.28139
+    ],
+    "routes": [
+      {
+        "gebied": "Ubrieux - Tschernobyl left",
+        "routenaam": "Aphrodite",
+        "datum": "jun-22",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ubrieux - Tschernobyl left",
+        "routenaam": "Ecolo Man",
+        "datum": "jun-22",
+        "moeilijkheid": "6b+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ubrieux - Tschernobyl left",
+        "routenaam": "Les Sauc' d'Italia",
+        "datum": "jun-22",
+        "moeilijkheid": "6a+",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ubrieux - Tschernobyl left",
+        "routenaam": "L'XYZ",
+        "datum": "jun-22",
+        "moeilijkheid": "5c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Saint Julien - Les Lames": {
+    "coords": [
+      44.26819,
+      5.2807
+    ],
+    "routes": [
+      {
+        "gebied": "Saint Julien - Les Lames",
+        "routenaam": "La Bouscaude Direct",
+        "datum": "jun-22",
+        "moeilijkheid": "5c",
+        "lengte": "100 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": "4c, 5c, 5c"
+      }
+    ]
+  },
+  "Ubrieux - Tschernobyl right": {
+    "coords": [
+      44.29285,
+      5.28139
+    ],
+    "routes": [
+      {
+        "gebied": "Ubrieux - Tschernobyl right",
+        "routenaam": "Le Clou Foireux",
+        "datum": "jun-22",
+        "moeilijkheid": "5a",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ubrieux - Tschernobyl right",
+        "routenaam": "Samiby",
+        "datum": "jun-22",
+        "moeilijkheid": "6a",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Ubrieux - Tschernobyl right",
+        "routenaam": "Maybe",
+        "datum": "jun-22",
+        "moeilijkheid": "5c",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": NaN,
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Saint Julien - Des Guepes": {
+    "coords": [
+      44.26819,
+      5.2807
+    ],
+    "routes": [
+      {
+        "gebied": "Saint Julien - Des Guepes",
+        "routenaam": "Les Guepes / La Directe (2e l)",
+        "datum": "jun-22",
+        "moeilijkheid": "5c",
+        "lengte": "85 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": "5b, 5c, 5b"
+      }
+    ]
+  },
+  "Baume Rousse - Droite Initiation": {
+    "coords": [
+      44.302132,
+      5.282114
+    ],
+    "routes": [
+      {
+        "gebied": "Baume Rousse - Droite Initiation",
+        "routenaam": "Sikarate",
+        "datum": "jun-22",
+        "moeilijkheid": "5b",
+        "lengte": "27 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse - Droite Initiation",
+        "routenaam": "Le Tyrex",
+        "datum": "jun-22",
+        "moeilijkheid": "4c",
+        "lengte": "27 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse - Droite Initiation",
+        "routenaam": "Les Bandits",
+        "datum": "jun-22",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse - Droite Initiation",
+        "routenaam": "Julie Quensand",
+        "datum": "jun-22",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse - Droite Initiation",
+        "routenaam": "Fleur Bleue",
+        "datum": "jun-22",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Baume Rousse - The Back Wall": {
+    "coords": [
+      44.302132,
+      5.282114
+    ],
+    "routes": [
+      {
+        "gebied": "Baume Rousse - The Back Wall",
+        "routenaam": "No Slibards Today",
+        "datum": "jun-22",
+        "moeilijkheid": "6a+/6b",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Baume Rousse - The Back Wall",
+        "routenaam": "Al Dente",
+        "datum": "jun-22",
+        "moeilijkheid": "6a",
+        "lengte": "15 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem poging",
+          "stijl_sem": NaN,
+          "paul": "Paul",
+          "stijl_paul": "poging",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Chaine Gigondas - Morizot-Parat": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Chaine Gigondas - Morizot-Parat",
+        "routenaam": "Diedre des Parisiens",
+        "datum": "jun-22",
+        "moeilijkheid": "5c",
+        "lengte": "75 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": "5c, 5c"
+      },
+      {
+        "gebied": "Chaine Gigondas - Morizot-Parat",
+        "routenaam": "Temps Decadents",
+        "datum": "jun-22",
+        "moeilijkheid": "6c",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na, poging",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Rocher du Grand Travers": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Rocher du Grand Travers",
+        "routenaam": "La Sophie",
+        "datum": "jun-22",
+        "moeilijkheid": "5a-b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "na & voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Rocher du Grand Travers",
+        "routenaam": "L'Annie",
+        "datum": "jun-22",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": NaN,
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "voor",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": NaN,
+          "stijl_trudy": NaN
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

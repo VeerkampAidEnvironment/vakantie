@@ -1,0 +1,772 @@
+{
+  "Sasso del Drago": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Il Lupo",
+        "datum": "aug-06",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Baby",
+        "datum": "aug-06",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Gipeto",
+        "datum": "aug-06",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "L'Aguilo",
+        "datum": "aug-06",
+        "moeilijkheid": "5a",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "La Maestra",
+        "datum": "aug-06",
+        "moeilijkheid": "5b+",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Nardini",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "CIP",
+        "datum": "aug-06",
+        "moeilijkheid": "5a",
+        "lengte": "10 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "CIOP",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "10 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Zirichiltaggia",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "12 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Steady State",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso del Drago",
+        "routenaam": "Steady State variante",
+        "datum": "aug-06",
+        "moeilijkheid": "5b+",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Placche di Bette": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Placche di Bette",
+        "routenaam": "Innanzitutto",
+        "datum": "aug-06",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Bette",
+        "routenaam": "Navajos (1e l.)",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Bette",
+        "routenaam": "SAGF (1e l.)",
+        "datum": "aug-06",
+        "moeilijkheid": "5c+",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Bette",
+        "routenaam": "Pelle di vipera",
+        "datum": "aug-06",
+        "moeilijkheid": "6a",
+        "lengte": "110 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5a, 5a, 5c, 6a"
+      }
+    ]
+  },
+  "Sasso Bianco": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Sasso Bianco",
+        "routenaam": "Zio Barron",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso Bianco",
+        "routenaam": "Placca",
+        "datum": "aug-06",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso Bianco",
+        "routenaam": "Sperone",
+        "datum": "aug-06",
+        "moeilijkheid": "5c+",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso Bianco",
+        "routenaam": "Alfredo (Panzeri start)",
+        "datum": "aug-06",
+        "moeilijkheid": "6a",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Sasso Bianco",
+        "routenaam": "Fessura del Lavoro",
+        "datum": "aug-06",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Brochne Burg": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Brochne Burg",
+        "routenaam": "Dagoberts $",
+        "datum": "aug-06",
+        "moeilijkheid": "4c",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Brochne Burg",
+        "routenaam": "Lotti kneift",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul ",
+          "stijl_paul": "na",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Brochne Burg",
+        "routenaam": "Beim Teutates",
+        "datum": "aug-06",
+        "moeilijkheid": "6a+",
+        "lengte": "15 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na (steun)",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Brochne Burg",
+        "routenaam": "Grisu",
+        "datum": "aug-06",
+        "moeilijkheid": "4c",
+        "lengte": "20 m",
+        "zeker": NaN,
+        "kenmerk": "wand",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "voor",
+          "trudy": "Trudy",
+          "stijl_trudy": "na"
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Stoos (klettergarten)": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Stoos (klettergarten)",
+        "routenaam": "Margeritha",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "40 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Stoos (klettergarten)",
+        "routenaam": "Bluemli",
+        "datum": "aug-06",
+        "moeilijkheid": "5a",
+        "lengte": "40 m",
+        "zeker": NaN,
+        "kenmerk": "plaat",
+        "rots": "Kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul ",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Acquafraggia": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Acquafraggia",
+        "routenaam": "Boiler mon Amour (1e & 2e l.)",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "55 m",
+        "zeker": "gut+",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor & na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor & na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": "5b, 5b"
+      },
+      {
+        "gebied": "Acquafraggia",
+        "routenaam": "Italia '90 (1e & 2e l.)",
+        "datum": "aug-06",
+        "moeilijkheid": "6a-",
+        "lengte": "45 m",
+        "zeker": "gut+",
+        "kenmerk": "wand",
+        "rots": "Gneis",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Placche di Lirone": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Magic Moment",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "voor (poging)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Erba Secca",
+        "datum": "aug-06",
+        "moeilijkheid": "5b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "..",
+          "stijl_paul": "..",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "La Cena delle Beffe",
+        "datum": "aug-06",
+        "moeilijkheid": "6a+ (6b)",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Big Night",
+        "datum": "aug-06",
+        "moeilijkheid": "6b (6b+)",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Lamone di Pio (1e l.)",
+        "datum": "aug-06",
+        "moeilijkheid": "6a+ (6a)",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na (steun)",
+          "paul": "Paul",
+          "stijl_paul": "voor",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Niagara",
+        "datum": "aug-06",
+        "moeilijkheid": "6b",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "..",
+          "stijl_max": "..",
+          "sem": "..",
+          "stijl_sem": "..",
+          "paul": "Paul",
+          "stijl_paul": "na (steun)",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Placche di Lirone",
+        "routenaam": "Laura (1e l.)",
+        "datum": "aug-06",
+        "moeilijkheid": "6a+",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "Graniet",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "voor (poging)",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

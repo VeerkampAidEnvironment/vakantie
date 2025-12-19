@@ -1,0 +1,159 @@
+{
+  "Li Crapena": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Li Crapena",
+        "routenaam": "Saluti e Baci",
+        "datum": "aug-11",
+        "moeilijkheid": "4b",
+        "lengte": "20 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Li Crapena",
+        "routenaam": "Passera Scopaiola",
+        "datum": "aug-11",
+        "moeilijkheid": "5a",
+        "lengte": "22 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": NaN,
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Li Crapena",
+        "routenaam": "Penna Bianca",
+        "datum": "aug-11",
+        "moeilijkheid": "4c",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": NaN,
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Li Crapena",
+        "routenaam": "Crociere Solitario",
+        "datum": "aug-11",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": "super",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "na",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  },
+  "Lagalb": {
+    "coords": null,
+    "routes": [
+      {
+        "gebied": "Lagalb",
+        "routenaam": "Knickebocker",
+        "datum": "aug-11",
+        "moeilijkheid": "5a",
+        "lengte": "25 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Lagalb",
+        "routenaam": "Ohne Vorname",
+        "datum": "aug-11",
+        "moeilijkheid": "5b",
+        "lengte": "25 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      },
+      {
+        "gebied": "Lagalb",
+        "routenaam": "Rudi?s Dream variante",
+        "datum": "aug-11",
+        "moeilijkheid": "5c",
+        "lengte": "25 m",
+        "zeker": "gut+",
+        "kenmerk": "plaat",
+        "rots": "kalk",
+        "klimmers": {
+          "max": "Max",
+          "stijl_max": "voor",
+          "sem": "Sem",
+          "stijl_sem": "na",
+          "paul": "Paul",
+          "stijl_paul": "na",
+          "trudy": "..",
+          "stijl_trudy": ".."
+        },
+        "moeilijkheid_langere_route": NaN
+      }
+    ]
+  }
+}

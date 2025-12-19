@@ -1,0 +1,216 @@
+{% extends "base.html" %}
+{% block content %}
+
+<div class="container py-3">
+
+  <!-- =========================
+       HEADER
+  ========================== -->
+  <h2>{{ info.destination }} ({{ info.year }})</h2>
+
+  {% if info.participants %}
+    <p><strong>Participants:</strong> {{ info.participants | join(", ") }}</p>
+  {% endif %}
+
+  {% if info.activities %}
+    <p><strong>Activities:</strong> {{ info.activities | join(", ") }}</p>
+  {% endif %}
+
+  <hr>
+
+  <!-- =========================
+       MAP
+  ========================== -->
+  <h4>Map overview</h4>
+  <div id="vacation-map" style="height: 500px; width: 100%; border-radius: 8px;"></div>
+
+  <hr>
+
+  <!-- =========================
+       ACTIVITIES LIST
+  ========================== -->
+  <h4>Activities</h4>
+  <ul>
+    {% for gpx in gpx_files %}
+      <li>
+        <strong>{{ gpx.activity }}</strong> – {{ gpx.filename }}
+      </li>
+    {% endfor %}
+  </ul>
+
+  <hr>
+  <!-- =========================
+       CLIMBING
+  ========================== -->
+  {% if climbing %}
+    <hr>
+    <h4>Climbing</h4>
+
+    {% for area, data in climbing.items() %}
+      <details class="mb-4">
+        <summary style="cursor:pointer;">
+          <strong>{{ area }}</strong>
+          ({{ data.routes | length }} routes)
+        </summary>
+
+        {% if data.routes %}
+          <div class="table-responsive mt-3">
+            <table class="table table-sm table-striped">
+              <thead>
+                <tr>
+                  <th>Route</th>
+                  <th>Moeilijkheid</th>
+                  <th>Lengte</th>
+                  <th>Max</th>
+                  <th>Sem</th>
+                  <th>Paul</th>
+                  <th>Trudy</th>
+                </tr>
+              </thead>
+              <tbody>
+                {% for r in data.routes %}
+                  <tr>
+                    <td>{{ r.routenaam }}</td>
+                    <td>{{ r.moeilijkheid or "-" }}</td>
+                    <td>{{ r.lengte or "-" }}</td>
+                    <td>{{ r.klimmers.max or "-" }}</td>
+                    <td>{{ r.klimmers.sem or "-" }}</td>
+                    <td>{{ r.klimmers.paul or "-" }}</td>
+                    <td>{{ r.klimmers.trudy or "-" }}</td>
+                  </tr>
+                {% endfor %}
+              </tbody>
+            </table>
+          </div>
+        {% else %}
+          <p class="mt-2"><em>No routes listed</em></p>
+        {% endif %}
+      </details>
+    {% endfor %}
+  {% endif %}
+
+    <!-- =========================
+       PHOTOS
+  ========================== -->
+  <h4>Photos</h4>
+
+  {% for activity, photos in photo_groups.items() %}
+    <details class="mb-3">
+      <summary style="cursor:pointer;">
+        <strong>{{ activity }}</strong>
+        ({{ photos | length }} photos)
+      </summary>
+
+      {% if photos %}
+        <div class="d-flex flex-wrap gap-3 mt-3">
+          {% for photo in photos %}
+            <a href="{{ url_for('serve_photo', folder=folder, filename=photo) }}" target="_blank">
+              <img
+                loading="lazy"
+                src="{{ url_for('serve_photo', folder=folder, filename=photo) }}"
+                class="img-thumbnail"
+                style="max-width: 200px;"
+              >
+            </a>
+          {% endfor %}
+        </div>
+      {% else %}
+        <p class="mt-2"><em>No photos</em></p>
+      {% endif %}
+    </details>
+  {% endfor %}
+
+
+<!-- =========================
+     MAP SCRIPTS
+========================== -->
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"/>
+<script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/togeojson/0.16.0/togeojson.min.js"></script>
+
+<script>
+/* global L, toGeoJSON */
+
+const map = L.map("vacation-map").setView([46.8, 9.8], 8);
+L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+  attribution: "&copy; OpenStreetMap contributors"
+}).addTo(map);
+
+const activityColors = {
+  "Wandelen": "#2E8B57",
+  "Klimmen": "#E74C3C",
+  "Fietsen": "#3498DB",
+  "Alpineren": "#1ABC9C",
+  "Via Ferrata": "#9B59B6"
+};
+
+const gpxFiles = {{ gpx_files | tojson }};
+const folder   = {{ folder | tojson }};
+const climbing = {{ climbing | default(None) | tojson }};
+
+let layers = [];
+
+/* =========================
+   ROUTES
+========================= */
+gpxFiles.forEach(gpx => {
+  const url = `/vacation/${folder}/gpx/${gpx.activity}/${gpx.filename}`;
+
+  fetch(url)
+    .then(r => r.text())
+    .then(text => {
+      const parser = new DOMParser();
+      const gpxDoc = parser.parseFromString(text, "application/xml");
+      const geojson = toGeoJSON.gpx(gpxDoc);
+
+      const layer = L.geoJSON(geojson, {
+        style: {
+          color: activityColors[gpx.activity] || "#555",
+          weight: 3
+        }
+      }).addTo(map);
+
+      layers.push(layer);
+    });
+});
+
+/* =========================
+   CLIMBING MARKERS
+========================= */
+if (climbing) {
+  Object.entries(climbing).forEach(([area, data]) => {
+    if (!data.coords || data.coords.length !== 2) return;
+
+    const marker = L.circleMarker(data.coords, {
+      radius: 7,
+      color: "#8e44ad",
+      fillColor: "#8e44ad",
+      fillOpacity: 0.85,
+      weight: 2
+    }).addTo(map);
+
+    marker.bindPopup(
+      `<b>${area}</b><br>Routes: ${data.routes ? data.routes.length : 0}`
+    );
+
+    layers.push(marker);
+  });
+}
+
+/* =========================
+   FIT BOUNDS
+========================= */
+setTimeout(() => {
+  if (layers.length) {
+    const group = L.featureGroup(layers);
+    map.fitBounds(group.getBounds(), {
+      padding: [40, 40],
+      maxZoom: 14
+    });
+  }
+}, 600);
+
+</script>
+
+{% endblock %}

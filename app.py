@@ -206,9 +206,10 @@ def serve_gpx(folder, activity, filename):
 
 @app.route("/vacation/<folder>/geojson/<activity>/<filename>")
 def serve_geojson(folder, activity, filename):
-    geojson_folder = os.path.join(VACATIONS_DIR, folder, "geojson", activity)
-
+    # Absolute path to the geojson folder
+    geojson_folder = os.path.join(app.root_path, VACATIONS_DIR, folder, "geojson", activity)
     file_path = os.path.join(geojson_folder, filename)
+
     if not os.path.exists(file_path):
         return "GeoJSON not found", 404
 

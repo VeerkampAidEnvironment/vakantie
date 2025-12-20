@@ -13,10 +13,10 @@ let layers = [];
 
 
 const activityColors = {
-  "Wandelen": "#2E8B57",
-  "": "#E74C3C",
-  "Fietsen": "#3498DB",
-  "Alpineren": "#1ABC9C"
+  "wandelen": "#2E8B57",
+  "via_ferrata": "#E74C3C",
+  "fietsen": "#3498DB",
+  "alpineren": "#1ABC9C"
 };
 
 function simplifyCoords(coords, tol = 0.0001) {

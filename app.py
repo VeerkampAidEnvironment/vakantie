@@ -145,7 +145,7 @@ def vacation_page(folder):
                     })
     activity_ranges = []
     for gpx in gpx_files:
-        if gpx["activity"] == "Via Ferrata":
+        if gpx["activity"] == "via_ferrata":
             activity_ranges.append({
                 "activity": gpx["activity"],
                 "start": None,

@@ -13,10 +13,10 @@ let layers = [];
 
 
 const activityColors = {
-  "Wandelen": "#2E8B57",
-  "": "#E74C3C",
-  "Fietsen": "#3498DB",
-  "Alpineren": "#1ABC9C"
+  "wandelen": "#2E8B57",
+  "via_ferrata": "#E74C3C",
+  "fietsen": "#3498DB",
+  "alpineren": "#1ABC9C"
 };
 
 function simplifyCoords(coords, tol = 0.0001) {
@@ -203,7 +203,12 @@ function renderVacations(data) {
       const color = activityColors[gpxInfo.activity] || '#555';
 
       const geojsonFile = gpxInfo.filename.replace('.gpx', '.json');
-      const url = `/vacation/${v.folder}/geojson/${gpxInfo.activity}/${geojsonFile}`;
+
+      const activitySlug = gpxInfo.activity
+        .toLowerCase()
+        .replace(/\s+/g, "_");
+
+      const url = `/vacation/${v.folder}/geojson/${activitySlug}/${geojsonFile}`;
 
       const p = fetch(url)
         .then(r => {

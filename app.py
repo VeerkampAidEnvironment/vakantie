@@ -145,7 +145,7 @@ def vacation_page(folder):
                     })
     activity_ranges = []
     for gpx in gpx_files:
-        if gpx["activity"] == "Via Ferrata":
+        if gpx["activity"] == "via_ferrata":
             activity_ranges.append({
                 "activity": gpx["activity"],
                 "start": None,
@@ -206,10 +206,13 @@ def serve_gpx(folder, activity, filename):
 
 @app.route("/vacation/<folder>/geojson/<activity>/<filename>")
 def serve_geojson(folder, activity, filename):
-    geojson_folder = os.path.join(VACATIONS_DIR, folder, "geojson", activity)
-
+    # Absolute path
+    geojson_folder = os.path.join(app.root_path, VACATIONS_DIR, folder, "geojson", activity)
     file_path = os.path.join(geojson_folder, filename)
+
     if not os.path.exists(file_path):
+        # Debug: log the full path
+        print("GeoJSON not found at:", file_path)
         return "GeoJSON not found", 404
 
     return send_from_directory(geojson_folder, filename)

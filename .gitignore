@@ -9,6 +9,7 @@
 *.svg
 *.MOV
 *.MP4
+*.mp4
 
 # gpx files
 *.gpx

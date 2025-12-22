@@ -133,32 +133,34 @@ def vacation_page(folder):
     if os.path.exists(photos_dir):
         photos = [f for f in os.listdir(photos_dir) if f.lower().endswith((".jpg", ".png"))]
 
-    gpx_dir = os.path.join(VACATIONS_DIR, folder, "gpx")
-    gpx_files = []
-    if os.path.exists(gpx_dir):
-        for activity in os.listdir(gpx_dir):
-            activity_path = os.path.join(gpx_dir, activity)
+    geojson_dir = os.path.join(VACATIONS_DIR, folder, "geojson")
+    geojson_files = []
+
+    if os.path.exists(geojson_dir):
+        for activity in os.listdir(geojson_dir):
+            activity_path = os.path.join(geojson_dir, activity)
             if not os.path.isdir(activity_path):
                 continue
-            for gpx_file in os.listdir(activity_path):
-                if gpx_file.endswith(".gpx"):
-                    gpx_files.append({
+            for geojson_file in os.listdir(activity_path):
+                if geojson_file.endswith(".json"):
+                    geojson_files.append({
                         "activity": activity,
-                        "filename": gpx_file
+                        "filename": geojson_file
                     })
+
     activity_ranges = []
-    for gpx in gpx_files:
-        if gpx["activity"] == "Via Ferrata":
+    for geo in geojson_files:
+        if geo["activity"] == "Via Ferrata":
             activity_ranges.append({
-                "activity": gpx["activity"],
+                "activity": geo["activity"],
                 "start": None,
                 "end": None
             })
         else:
-            start, end = parse_gpx_dates(gpx['filename'])
+            start, end = parse_gpx_dates(geo['filename'])
             if start and end:
                 activity_ranges.append({
-                    "activity": gpx["activity"],
+                    "activity": geo["activity"],
                     "start": start,
                     "end": end
                 })
@@ -189,7 +191,7 @@ def vacation_page(folder):
         "vacation.html",
         info=info,
         folder=folder,
-        gpx_files=gpx_files,
+        geojson_files=geojson_files,
         photo_groups=photo_groups,
         climbing=climbing_data
     )

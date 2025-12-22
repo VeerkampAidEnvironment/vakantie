@@ -11,12 +11,12 @@ def load_vacations():
     vacations = []
     for folder in os.listdir(VACATIONS_DIR):
         v_path = os.path.join(VACATIONS_DIR, folder)
-        #if not os.path.isdir(v_path):
-        #    continue
+        if not os.path.isdir(v_path):
+            continue
 
         info_file = os.path.join(v_path, "info.json")
-        #if not os.path.exists(info_file):
-        #    continue
+        if not os.path.exists(info_file):
+            continue
 
         with open(info_file) as f:
             data = json.load(f)

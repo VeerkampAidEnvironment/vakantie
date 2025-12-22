@@ -12,7 +12,7 @@
         "kenmerk": "plaat",
         "rots": "gneis",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": "Sem",
           "stijl_sem": "na",
@@ -33,7 +33,7 @@
         "kenmerk": "plaat",
         "rots": "gneis",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": "Sem",
           "stijl_sem": "na",
@@ -54,7 +54,7 @@
         "kenmerk": "wand",
         "rots": "gneis",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "na",
           "sem": "..",
           "stijl_sem": "..",

@@ -115,7 +115,10 @@
     ]
   },
   "Nouveau Gueberschwihr": {
-    "coords": null,
+    "coords": [
+      47.998969,
+      7.266468
+    ],
     "routes": [
       {
         "gebied": "Nouveau Gueberschwihr",

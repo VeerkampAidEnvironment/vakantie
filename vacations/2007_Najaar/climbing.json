@@ -1,6 +1,9 @@
 {
   "Sasso Bianco": {
-    "coords": null,
+    "coords": [
+      46.307062,
+      9.405264
+    ],
     "routes": [
       {
         "gebied": "Sasso Bianco",
@@ -178,7 +181,10 @@
     ]
   },
   "Sasso del Drago": {
-    "coords": null,
+    "coords": [
+      46.327949,
+      9.466907
+    ],
     "routes": [
       {
         "gebied": "Sasso del Drago",

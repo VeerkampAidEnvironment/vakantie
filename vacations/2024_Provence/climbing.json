@@ -17,7 +17,7 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "voor",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
           "paul": "Paul",
           "stijl_paul": "voor",
@@ -38,7 +38,7 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "voor",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
           "paul": "Paul",
           "stijl_paul": "voor",
@@ -59,7 +59,7 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "voor",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
           "paul": "Paul",
           "stijl_paul": "voor",
@@ -80,7 +80,7 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "na",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
           "paul": "Paul",
           "stijl_paul": "na",
@@ -109,7 +109,7 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "voor",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
           "paul": "Paul",
           "stijl_paul": "na",
@@ -130,7 +130,7 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "voor",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
           "paul": "Paul",
           "stijl_paul": "na",
@@ -159,7 +159,7 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "voor",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
           "paul": "Paul",
           "stijl_paul": "na",
@@ -714,14 +714,14 @@
       }
     ]
   },
-  "Meyrosse - Rive droit ": {
+  "Meyrosse - Rive droit": {
     "coords": [
       44.771966,
       5.400428
     ],
     "routes": [
       {
-        "gebied": "Meyrosse - Rive droit ",
+        "gebied": "Meyrosse - Rive droit",
         "routenaam": "La Roue Voilee",
         "datum": "mei-24",
         "moeilijkheid": "5a",
@@ -742,7 +742,7 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Meyrosse - Rive droit ",
+        "gebied": "Meyrosse - Rive droit",
         "routenaam": "Merci Newton",
         "datum": "mei-24",
         "moeilijkheid": "5b",
@@ -763,7 +763,7 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Meyrosse - Rive droit ",
+        "gebied": "Meyrosse - Rive droit",
         "routenaam": "Gare au Velo",
         "datum": "mei-24",
         "moeilijkheid": "5b",
@@ -784,7 +784,7 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Meyrosse - Rive droit ",
+        "gebied": "Meyrosse - Rive droit",
         "routenaam": "6a pour Enfants",
         "datum": "mei-24",
         "moeilijkheid": "6a",
@@ -805,7 +805,7 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Meyrosse - Rive droit ",
+        "gebied": "Meyrosse - Rive droit",
         "routenaam": "Triple P",
         "datum": "mei-24",
         "moeilijkheid": "6a+",
@@ -843,7 +843,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "na",
           "sem": "Sem",
           "stijl_sem": "voor",
@@ -864,7 +864,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": "Sem",
           "stijl_sem": "na",
@@ -885,7 +885,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": "Sem",
           "stijl_sem": "na",
@@ -914,7 +914,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": NaN,
           "stijl_sem": NaN,
@@ -935,7 +935,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": NaN,
           "stijl_sem": NaN,
@@ -956,7 +956,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": NaN,
           "stijl_sem": NaN,
@@ -977,7 +977,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": NaN,
           "stijl_sem": NaN,
@@ -998,7 +998,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": NaN,
           "stijl_sem": NaN,
@@ -1027,7 +1027,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": NaN,
           "stijl_sem": NaN,
@@ -1048,7 +1048,7 @@
         "kenmerk": NaN,
         "rots": "kalk",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "na",
           "sem": NaN,
           "stijl_sem": NaN,

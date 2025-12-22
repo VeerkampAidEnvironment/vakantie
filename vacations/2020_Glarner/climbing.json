@@ -1,6 +1,9 @@
 {
   "Falkenstein": {
-    "coords": null,
+    "coords": [
+      48.31563,
+      7.37823
+    ],
     "routes": [
       {
         "gebied": "Falkenstein",

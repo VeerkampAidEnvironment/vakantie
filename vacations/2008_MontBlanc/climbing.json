@@ -1,6 +1,9 @@
 {
   "La Duchere, Amphitheatre": {
-    "coords": null,
+    "coords": [
+      45.796468,
+      6.723334
+    ],
     "routes": [
       {
         "gebied": "La Duchere, Amphitheatre",
@@ -47,7 +50,10 @@
     ]
   },
   "La Duchere, le Lys": {
-    "coords": null,
+    "coords": [
+      45.796468,
+      6.723334
+    ],
     "routes": [
       {
         "gebied": "La Duchere, le Lys",
@@ -372,7 +378,10 @@
     ]
   },
   "Les Cheserys": {
-    "coords": null,
+    "coords": [
+      45.987563,
+      6.914175
+    ],
     "routes": [
       {
         "gebied": "Les Cheserys",
@@ -606,11 +615,14 @@
       }
     ]
   },
-  "Sustenbrugli": {
-    "coords": null,
+  "46.7538570, 8.4617521": {
+    "coords": [
+      46.753857,
+      8.461752
+    ],
     "routes": [
       {
-        "gebied": "Sustenbrugli",
+        "gebied": "46.7538570, 8.4617521",
         "routenaam": "Gluckspirale",
         "datum": "jul-08",
         "moeilijkheid": "5a (4c)",
@@ -629,9 +641,17 @@
           "stijl_trudy": ".."
         },
         "moeilijkheid_langere_route": NaN
-      },
+      }
+    ]
+  },
+  "Sustenbrugli, super sustly": {
+    "coords": [
+      46.753857,
+      8.461752
+    ],
+    "routes": [
       {
-        "gebied": "Sustenbrugli",
+        "gebied": "Sustenbrugli, super sustly",
         "routenaam": NaN,
         "datum": "jul-08",
         "moeilijkheid": "4a (4b)",
@@ -652,8 +672,8 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Sustenbrugli",
-        "routenaam": "Murmeltango ",
+        "gebied": "Sustenbrugli, super sustly",
+        "routenaam": "Murmeltango",
         "datum": "jul-08",
         "moeilijkheid": "5b",
         "lengte": "25 m",
@@ -675,7 +695,10 @@
     ]
   },
   "Gerstenegg, Azalee Beach": {
-    "coords": null,
+    "coords": [
+      46.589265,
+      8.317157
+    ],
     "routes": [
       {
         "gebied": "Gerstenegg, Azalee Beach",

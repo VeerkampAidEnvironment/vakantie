@@ -1,9 +1,12 @@
 {
-  "Meiringen - Rotsteini": {
-    "coords": null,
+  "Rotsteini, Übungsfels": {
+    "coords": [
+      46.737246,
+      8.175316
+    ],
     "routes": [
       {
-        "gebied": "Meiringen - Rotsteini",
+        "gebied": "Rotsteini, Übungsfels",
         "routenaam": "Churbis",
         "datum": "jul-09",
         "moeilijkheid": "4b",
@@ -24,7 +27,7 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Meiringen - Rotsteini",
+        "gebied": "Rotsteini, Übungsfels",
         "routenaam": "Ventil",
         "datum": "jul-09",
         "moeilijkheid": "4c",
@@ -45,7 +48,7 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Meiringen - Rotsteini",
+        "gebied": "Rotsteini, Übungsfels",
         "routenaam": "Sprenzelwand",
         "datum": "jul-09",
         "moeilijkheid": "4c",
@@ -66,7 +69,7 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Meiringen - Rotsteini",
+        "gebied": "Rotsteini, Übungsfels",
         "routenaam": "Vegetarier",
         "datum": "jul-09",
         "moeilijkheid": "5a",
@@ -87,7 +90,7 @@
         "moeilijkheid_langere_route": NaN
       },
       {
-        "gebied": "Meiringen - Rotsteini",
+        "gebied": "Rotsteini, Übungsfels",
         "routenaam": "Knacker",
         "datum": "jul-09",
         "moeilijkheid": "5b",
@@ -110,7 +113,10 @@
     ]
   },
   "Steingletscher- sector Platten": {
-    "coords": null,
+    "coords": [
+      46.721286,
+      8.433184
+    ],
     "routes": [
       {
         "gebied": "Steingletscher- sector Platten",

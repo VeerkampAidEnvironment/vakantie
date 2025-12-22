@@ -855,7 +855,7 @@
       },
       {
         "gebied": "secteur Tilleul",
-        "routenaam": "Ah urinella ",
+        "routenaam": "Ah urinella",
         "datum": "mei-23",
         "moeilijkheid": "5c",
         "lengte": "20 m",
@@ -933,7 +933,7 @@
         "klimmers": {
           "max": NaN,
           "stijl_max": NaN,
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "voor",
           "paul": "..",
           "stijl_paul": NaN,
@@ -954,7 +954,7 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "voor",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
           "paul": "..",
           "stijl_paul": NaN,

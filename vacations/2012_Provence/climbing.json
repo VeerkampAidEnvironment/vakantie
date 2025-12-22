@@ -1,6 +1,9 @@
 {
   "Ecole de la Graville": {
-    "coords": null,
+    "coords": [
+      44.648761,
+      5.078759
+    ],
     "routes": [
       {
         "gebied": "Ecole de la Graville",
@@ -68,7 +71,10 @@
     ]
   },
   "Baume Rousse": {
-    "coords": null,
+    "coords": [
+      44.302132,
+      5.282114
+    ],
     "routes": [
       {
         "gebied": "Baume Rousse",

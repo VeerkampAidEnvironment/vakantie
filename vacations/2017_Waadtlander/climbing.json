@@ -1,6 +1,9 @@
 {
   "Pierre du Moelle": {
-    "coords": null,
+    "coords": [
+      46.390567,
+      7.029615
+    ],
     "routes": [
       {
         "gebied": "Pierre du Moelle",

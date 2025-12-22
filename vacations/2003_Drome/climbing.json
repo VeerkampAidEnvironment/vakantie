@@ -1,6 +1,9 @@
 {
   "Ecole de la Graville": {
-    "coords": null,
+    "coords": [
+      44.648761,
+      5.078759
+    ],
     "routes": [
       {
         "gebied": "Ecole de la Graville",
@@ -131,7 +134,10 @@
     ]
   },
   "Le Rocher des Abeilles": {
-    "coords": null,
+    "coords": [
+      44.6276,
+      5.02299
+    ],
     "routes": [
       {
         "gebied": "Le Rocher des Abeilles",

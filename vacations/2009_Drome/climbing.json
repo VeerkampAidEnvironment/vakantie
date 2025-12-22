@@ -1,6 +1,9 @@
 {
   "La Ceyte Ouest: Soleil": {
-    "coords": null,
+    "coords": [
+      44.65345,
+      5.078
+    ],
     "routes": [
       {
         "gebied": "La Ceyte Ouest: Soleil",

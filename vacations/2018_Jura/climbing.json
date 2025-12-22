@@ -1,6 +1,9 @@
 {
   "Nouveau Gueberschwihr": {
-    "coords": null,
+    "coords": [
+      47.998969,
+      7.266468
+    ],
     "routes": [
       {
         "gebied": "Nouveau Gueberschwihr",
@@ -68,7 +71,10 @@
     ]
   },
   "Rocher de la Paix": {
-    "coords": null,
+    "coords": [
+      47.251806,
+      7.262252
+    ],
     "routes": [
       {
         "gebied": "Rocher de la Paix",
@@ -157,7 +163,10 @@
     ]
   },
   "Blanche-Neige": {
-    "coords": null,
+    "coords": [
+      47.197255,
+      7.192666
+    ],
     "routes": [
       {
         "gebied": "Blanche-Neige",
@@ -225,7 +234,10 @@
     ]
   },
   "Br?ggligr?te": {
-    "coords": null,
+    "coords": [
+      47.226778,
+      7.426899
+    ],
     "routes": [
       {
         "gebied": "Br?ggligr?te",
@@ -272,7 +284,10 @@
     ]
   },
   "Klus-Balsthal, sector D": {
-    "coords": null,
+    "coords": [
+      47.304143,
+      7.703848
+    ],
     "routes": [
       {
         "gebied": "Klus-Balsthal, sector D",
@@ -319,7 +334,10 @@
     ]
   },
   "Klus-Balsthal, sector E": {
-    "coords": null,
+    "coords": [
+      47.304143,
+      7.703848
+    ],
     "routes": [
       {
         "gebied": "Klus-Balsthal, sector E",

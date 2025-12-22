@@ -342,7 +342,7 @@
         "kenmerk": "plaat",
         "rots": "gneis",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "na",
           "sem": "..",
           "stijl_sem": "..",
@@ -363,7 +363,7 @@
         "kenmerk": "plaat",
         "rots": "gneis",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "na",
           "sem": "Sem",
           "stijl_sem": "na",
@@ -389,7 +389,7 @@
         "kenmerk": "plaat",
         "rots": "gneis",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "na",
           "sem": "Sem",
           "stijl_sem": "na (hulp)",

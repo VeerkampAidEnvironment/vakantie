@@ -1,6 +1,9 @@
 {
   "Nouveau Gueberschwihr": {
-    "coords": null,
+    "coords": [
+      47.998969,
+      7.266468
+    ],
     "routes": [
       {
         "gebied": "Nouveau Gueberschwihr",
@@ -12,7 +15,7 @@
         "kenmerk": "plaat",
         "rots": "zand",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "voor",
           "sem": "Sem",
           "stijl_sem": "na",
@@ -54,7 +57,7 @@
         "kenmerk": "wand",
         "rots": "zand",
         "klimmers": {
-          "max": "Max ",
+          "max": "Max",
           "stijl_max": "na, steun",
           "sem": "..",
           "stijl_sem": "..",
@@ -142,7 +145,7 @@
           "stijl_max": "??",
           "sem": "..",
           "stijl_sem": "..",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "na",
           "trudy": "..",
           "stijl_trudy": ".."
@@ -161,9 +164,9 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "na",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "voor",
           "trudy": "..",
           "stijl_trudy": ".."
@@ -215,7 +218,10 @@
     ]
   },
   "Le Hirnelestein": {
-    "coords": null,
+    "coords": [
+      47.821165,
+      7.139441
+    ],
     "routes": [
       {
         "gebied": "Le Hirnelestein",
@@ -229,9 +235,9 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "na",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "voor",
           "trudy": "..",
           "stijl_trudy": ".."
@@ -250,9 +256,9 @@
         "klimmers": {
           "max": "Max",
           "stijl_max": "na",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "na",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "voor",
           "trudy": "..",
           "stijl_trudy": ".."
@@ -313,7 +319,7 @@
         "klimmers": {
           "max": "..",
           "stijl_max": "..",
-          "sem": "Sem ",
+          "sem": "Sem",
           "stijl_sem": "voor",
           "paul": "..",
           "stijl_paul": "..",
@@ -325,7 +331,10 @@
     ]
   },
   "Roche du Cerf": {
-    "coords": null,
+    "coords": [
+      47.780115,
+      6.834067
+    ],
     "routes": [
       {
         "gebied": "Roche du Cerf",
@@ -341,7 +350,7 @@
           "stijl_max": "na",
           "sem": "Sem",
           "stijl_sem": "na",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "voor",
           "trudy": "..",
           "stijl_trudy": ".."
@@ -456,7 +465,10 @@
     ]
   },
   "Roche de l'Ours": {
-    "coords": null,
+    "coords": [
+      47.869389,
+      6.863081
+    ],
     "routes": [
       {
         "gebied": "Roche de l'Ours",

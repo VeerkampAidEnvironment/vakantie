@@ -7,7 +7,7 @@ import re
 # --------------------------------
 # CONFIG
 # --------------------------------
-INPUT_CSV = "bronbestand touren familie(Klimtochten 00-25) (1).csv"
+INPUT_CSV = "climbing.csv"
 OUTPUT_BASE = Path("vacations")
 
 # --------------------------------

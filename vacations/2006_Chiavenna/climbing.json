@@ -1,6 +1,9 @@
 {
   "Sasso del Drago": {
-    "coords": null,
+    "coords": [
+      46.327949,
+      9.466907
+    ],
     "routes": [
       {
         "gebied": "Sasso del Drago",
@@ -236,7 +239,10 @@
     ]
   },
   "Placche di Bette": {
-    "coords": null,
+    "coords": [
+      46.323203,
+      9.388589
+    ],
     "routes": [
       {
         "gebied": "Placche di Bette",
@@ -325,7 +331,10 @@
     ]
   },
   "Sasso Bianco": {
-    "coords": null,
+    "coords": [
+      46.307062,
+      9.405264
+    ],
     "routes": [
       {
         "gebied": "Sasso Bianco",
@@ -435,7 +444,10 @@
     ]
   },
   "Brochne Burg": {
-    "coords": null,
+    "coords": [
+      47.103656,
+      9.490472
+    ],
     "routes": [
       {
         "gebied": "Brochne Burg",
@@ -472,7 +484,7 @@
           "stijl_max": "na",
           "sem": "Sem",
           "stijl_sem": "na (steun)",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "na",
           "trudy": "Trudy",
           "stijl_trudy": "na"
@@ -514,7 +526,7 @@
           "stijl_max": "na",
           "sem": "Sem",
           "stijl_sem": "na",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "voor",
           "trudy": "Trudy",
           "stijl_trudy": "na"
@@ -524,7 +536,10 @@
     ]
   },
   "Stoos (klettergarten)": {
-    "coords": null,
+    "coords": [
+      47.228704,
+      9.314244
+    ],
     "routes": [
       {
         "gebied": "Stoos (klettergarten)",
@@ -540,7 +555,7 @@
           "stijl_max": "na",
           "sem": "Sem",
           "stijl_sem": "na",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "voor",
           "trudy": "..",
           "stijl_trudy": ".."
@@ -561,7 +576,7 @@
           "stijl_max": "voor",
           "sem": "Sem",
           "stijl_sem": "na",
-          "paul": "Paul ",
+          "paul": "Paul",
           "stijl_paul": "na",
           "trudy": "..",
           "stijl_trudy": ".."
@@ -571,7 +586,10 @@
     ]
   },
   "Acquafraggia": {
-    "coords": null,
+    "coords": [
+      46.331308,
+      9.4388
+    ],
     "routes": [
       {
         "gebied": "Acquafraggia",
@@ -618,7 +636,10 @@
     ]
   },
   "Placche di Lirone": {
-    "coords": null,
+    "coords": [
+      46.368165,
+      9.365373
+    ],
     "routes": [
       {
         "gebied": "Placche di Lirone",

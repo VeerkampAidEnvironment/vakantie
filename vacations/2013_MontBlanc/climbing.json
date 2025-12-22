@@ -47,7 +47,10 @@
     ]
   },
   "Les Cheserys": {
-    "coords": null,
+    "coords": [
+      45.987563,
+      6.914175
+    ],
     "routes": [
       {
         "gebied": "Les Cheserys",

@@ -1,6 +1,9 @@
 {
   "Placche Di Messe": {
-    "coords": null,
+    "coords": [
+      46.307525,
+      9.379416
+    ],
     "routes": [
       {
         "gebied": "Placche Di Messe",
@@ -94,7 +97,10 @@
     ]
   },
   "Val Minor": {
-    "coords": null,
+    "coords": [
+      46.440612,
+      10.004867
+    ],
     "routes": [
       {
         "gebied": "Val Minor",
@@ -204,7 +210,10 @@
     ]
   },
   "Placche di Lirone": {
-    "coords": null,
+    "coords": [
+      46.366348,
+      9.365384
+    ],
     "routes": [
       {
         "gebied": "Placche di Lirone",
@@ -293,11 +302,14 @@
     ]
   },
   "Scivolo di Corte Terza": {
-    "coords": null,
+    "coords": [
+      46.267426,
+      9.277966
+    ],
     "routes": [
       {
         "gebied": "Scivolo di Corte Terza",
-        "routenaam": "Senza Nome",
+        "routenaam": "Senza Nome 1",
         "datum": "jul-07",
         "moeilijkheid": "5a",
         "lengte": "45 m",
@@ -318,7 +330,7 @@
       },
       {
         "gebied": "Scivolo di Corte Terza",
-        "routenaam": "Senza Nome",
+        "routenaam": "Senza Nome 2",
         "datum": "jul-07",
         "moeilijkheid": "5b",
         "lengte": "45 m",
@@ -382,7 +394,10 @@
     ]
   },
   "Sasso del Drago": {
-    "coords": null,
+    "coords": [
+      46.327949,
+      9.466907
+    ],
     "routes": [
       {
         "gebied": "Sasso del Drago",
@@ -481,7 +496,10 @@
     ]
   },
   "Steingletscher - Hotel sektor D": {
-    "coords": null,
+    "coords": [
+      46.721286,
+      8.433184
+    ],
     "routes": [
       {
         "gebied": "Steingletscher - Hotel sektor D",
@@ -596,7 +614,10 @@
     ]
   },
   "Steingletscher, sektor Hell": {
-    "coords": null,
+    "coords": [
+      46.721286,
+      8.433184
+    ],
     "routes": [
       {
         "gebied": "Steingletscher, sektor Hell",

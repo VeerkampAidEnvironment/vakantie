@@ -6,9 +6,13 @@ from pathlib import Path
 VACATIONS_DIR = Path("vacations")
 
 # Simplification: keep every Nth point
-SIMPLIFY_EVERY = 10   # increase = faster & lighter
+SIMPLIFY_BY_ACTIVITY = {
+    "Fietsen": 10,      # keep every 5th point
+}
 
-def convert_gpx(gpx_path: Path, out_path: Path):
+DEFAULT_SIMPLIFY = 1  # everything else
+
+def convert_gpx(gpx_path: Path, out_path: Path, simplify_every: int):
     with open(gpx_path, "r", encoding="utf-8") as f:
         gpx = gpxpy.parse(f)
 
@@ -19,7 +23,7 @@ def convert_gpx(gpx_path: Path, out_path: Path):
             coords = [
                 [p.longitude, p.latitude]
                 for i, p in enumerate(seg.points)
-                if i % SIMPLIFY_EVERY == 0
+                if i % simplify_every == 0
             ]
 
             if len(coords) < 2:
@@ -65,22 +69,20 @@ def run():
         geojson_root = vacation / "geojson"
 
         for activity in gpx_root.iterdir():
-            if not activity.is_dir():
-                continue
+
+            simplify_every = SIMPLIFY_BY_ACTIVITY.get(
+                activity.name,
+                DEFAULT_SIMPLIFY
+            )
 
             for gpx_file in activity.glob("*.gpx"):
                 out_file = (
-                    geojson_root /
-                    activity.name /
-                    (gpx_file.stem + ".json")
+                        geojson_root /
+                        activity.name /
+                        (gpx_file.stem + ".json")
                 )
 
-                # Skip if already converted
-                if out_file.exists():
-                    print(f"⏭️  Skipping existing {out_file}")
-                    continue
-
-                convert_gpx(gpx_file, out_file)
+                convert_gpx(gpx_file, out_file, simplify_every)
 
     print("🎉 Done")
 

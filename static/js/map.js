@@ -223,7 +223,7 @@ function renderVacations(data) {
 
           layer.bindPopup(`
             <b>${v.destination} (${v.year})</b><br>
-            Activiteit: ${gpxInfo.activity}<br>
+            Activiteit: ${geo.activity}<br>
             <a href="/vacation/${v.folder}">Details</a>
           `);
 

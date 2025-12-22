@@ -24,21 +24,24 @@ def load_vacations():
         data["folder"] = folder  # important for building URLs on index
 
         # Collect GPX files properly
-        gpx_dir = os.path.join(v_path, "gpx")
-        gpx_files = []
-        if os.path.exists(gpx_dir):
-            for activity in os.listdir(gpx_dir):
-                activity_path = os.path.join(gpx_dir, activity)
+        # Collect GeoJSON files (API-facing)
+        geojson_dir = os.path.join(v_path, "geojson")
+        geojson_files = []
+
+        if os.path.exists(geojson_dir):
+            for activity in os.listdir(geojson_dir):
+                activity_path = os.path.join(geojson_dir, activity)
                 if not os.path.isdir(activity_path):
                     continue
-                for gpx_file in os.listdir(activity_path):
-                    if gpx_file.endswith(".gpx"):
-                        gpx_files.append({
+                for geojson_file in os.listdir(activity_path):
+                    if geojson_file.endswith(".geojson"):
+                        geojson_files.append({
                             "activity": activity,
-                            "filename": gpx_file
+                            "filename": geojson_file
                         })
 
-        data["gpx_files"] = gpx_files
+        data["geojson_files"] = geojson_files
+
         ### collect climbing data
         climbing_file = os.path.join(v_path, "climbing.json")
         if os.path.exists(climbing_file):

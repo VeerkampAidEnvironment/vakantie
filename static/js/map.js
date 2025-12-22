@@ -199,16 +199,16 @@ function renderVacations(data) {
   data.forEach(v => {
 
        // === ROUTES (GeoJSON – fast) =====================================
-    (v.gpx_files || []).forEach(gpxInfo => {
-      const color = activityColors[gpxInfo.activity] || '#555';
+(v.geojson_files || []).forEach(geo => {
+  const color = activityColors[geo.activity] || '#555';
 
-      const geojsonFile = gpxInfo.filename.replace('.gpx', '.json');
+  const activitySlug = geo.activity
+    .toLowerCase()
+    .replace(/\s+/g, "_");
 
-      const activitySlug = gpxInfo.activity
-        .toLowerCase()
-        .replace(/\s+/g, "_");
+  const url = `/vacation/${v.folder}/geojson/${activitySlug}/${geo.filename}`;
 
-      const url = `/vacation/${v.folder}/geojson/${activitySlug}/${geojsonFile}`;
+
 
       const p = fetch(url)
         .then(r => {

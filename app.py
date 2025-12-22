@@ -23,7 +23,6 @@ def load_vacations():
 
         data["folder"] = folder  # important for building URLs on index
 
-        # Collect GPX files properly
         # Collect GeoJSON files (API-facing)
         geojson_dir = os.path.join(v_path, "geojson")
         geojson_files = []
@@ -34,7 +33,7 @@ def load_vacations():
                 if not os.path.isdir(activity_path):
                     continue
                 for geojson_file in os.listdir(activity_path):
-                    if geojson_file.endswith(".geojson"):
+                    if geojson_file.endswith(".json"):
                         geojson_files.append({
                             "activity": activity,
                             "filename": geojson_file

@@ -29,23 +29,22 @@
   <!-- =========================
        ACTIVITIES LIST
   ========================== -->
-  <h4>Activities</h4>
+  <h4>Routes</h4>
   <ul>
-    {% for gpx in gpx_files %}
+    {% for geo in geojson_files %}
       <li>
-        <strong>{{ gpx.activity }}</strong> – {{ gpx.filename }}
+        <strong>{{ geo.activity }}</strong> – {{ geo.filename }}
       </li>
     {% endfor %}
   </ul>
 
   <hr>
+
   <!-- =========================
        CLIMBING
   ========================== -->
   {% if climbing %}
-    <hr>
     <h4>Climbing</h4>
-
     {% for area, data in climbing.items() %}
       <details class="mb-4">
         <summary style="cursor:pointer;">
@@ -89,7 +88,9 @@
     {% endfor %}
   {% endif %}
 
-    <!-- =========================
+  <hr>
+
+  <!-- =========================
        PHOTOS
   ========================== -->
   <h4>Photos</h4>
@@ -120,6 +121,7 @@
     </details>
   {% endfor %}
 
+</div>
 
 <!-- =========================
      MAP SCRIPTS
@@ -127,51 +129,89 @@
 
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"/>
 <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/togeojson/0.16.0/togeojson.min.js"></script>
 
 <script>
-/* global L, toGeoJSON */
+/* global L */
 
 const map = L.map("vacation-map").setView([46.8, 9.8], 8);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: "&copy; OpenStreetMap contributors"
 }).addTo(map);
 
-const activityColors = {
-  "Wandelen": "#2E8B57",
-  "Klimmen": "#E74C3C",
-  "Fietsen": "#3498DB",
-  "Alpineren": "#1ABC9C",
-  "Via Ferrata": "#9B59B6"
-};
-
-const gpxFiles = {{ gpx_files | tojson }};
-const folder   = {{ folder | tojson }};
+/* =========================
+   DATA FROM FLASK
+========================= */
+const geojsonFiles = {{ geojson_files | tojson }};
+const folder = {{ folder | tojson }};
 const climbing = {{ climbing | default(None) | tojson }};
 
-let layers = [];
+/* =========================
+   COLOR SYSTEM
+========================= */
+/* Base colors per activity */
+const baseColors = {
+  "Wandelen": [46, 139, 87],     // green
+  "Fietsen": [52, 152, 219],    // blue
+  "Alpineren": [26, 188, 156],  // teal
+  "Via Ferrata": [155, 89, 182] // purple
+};
+
+/* Generate lighter/darker shades */
+function shadeColor([r,g,b], factor) {
+  return `rgb(${Math.round(r*factor)},${Math.round(g*factor)},${Math.round(b*factor)})`;
+}
 
 /* =========================
-   ROUTES
+   ROUTES + LEGEND
 ========================= */
-gpxFiles.forEach(gpx => {
-  const url = `/vacation/${folder}/gpx/${gpx.activity}/${gpx.filename}`;
+let layers = [];
+let legendItems = [];
+
+const activityCounts = {};
+
+geojsonFiles.forEach(geo => {
+  activityCounts[geo.activity] = (activityCounts[geo.activity] || 0) + 1;
+});
+
+const activityIndex = {};
+
+geojsonFiles.forEach(geo => {
+  const base = baseColors[geo.activity] || [120,120,120];
+  const idx = activityIndex[geo.activity] || 0;
+  const total = activityCounts[geo.activity];
+
+  const factor = 0.6 + (idx / Math.max(1, total-1)) * 0.4;
+  const color = shadeColor(base, factor);
+
+  activityIndex[geo.activity] = idx + 1;
+
+  const activitySlug = geo.activity.toLowerCase().replace(/\s+/g, "_");
+  const url = `/vacation/${folder}/geojson/${activitySlug}/${geo.filename}`;
 
   fetch(url)
-    .then(r => r.text())
-    .then(text => {
-      const parser = new DOMParser();
-      const gpxDoc = parser.parseFromString(text, "application/xml");
-      const geojson = toGeoJSON.gpx(gpxDoc);
-
+    .then(r => r.json())
+    .then(geojson => {
       const layer = L.geoJSON(geojson, {
         style: {
-          color: activityColors[gpx.activity] || "#555",
+          color,
           weight: 3
         }
       }).addTo(map);
 
+      layer.bindPopup(`
+        <b>${geo.activity}</b><br>
+        ${geo.filename}
+      `);
+
       layers.push(layer);
+
+      legendItems.push({
+        label: `${geo.activity} – ${geo.filename}`,
+        color
+      });
+
+      updateLegend();
+      fitBounds();
     });
 });
 
@@ -190,27 +230,50 @@ if (climbing) {
       weight: 2
     }).addTo(map);
 
-    marker.bindPopup(
-      `<b>${area}</b><br>Routes: ${data.routes ? data.routes.length : 0}`
-    );
-
+    marker.bindPopup(`<b>${area}</b><br>Routes: ${data.routes ? data.routes.length : 0}`);
     layers.push(marker);
   });
 }
 
 /* =========================
-   FIT BOUNDS
+   FIT MAP BOUNDS
 ========================= */
-setTimeout(() => {
-  if (layers.length) {
-    const group = L.featureGroup(layers);
-    map.fitBounds(group.getBounds(), {
-      padding: [40, 40],
-      maxZoom: 14
-    });
+function fitBounds() {
+  if (!layers.length) return;
+  const group = L.featureGroup(layers);
+  if (group.getBounds().isValid()) {
+    map.fitBounds(group.getBounds(), { padding: [40,40], maxZoom: 14 });
   }
-}, 600);
+}
 
+/* =========================
+   LEGEND
+========================= */
+const legend = L.control({ position: "bottomright" });
+
+legend.onAdd = function() {
+  const div = L.DomUtil.create("div", "legend");
+  div.innerHTML = "<h5>Routes</h5><div id='legend-items'></div>";
+  return div;
+};
+
+legend.addTo(map);
+
+function updateLegend() {
+  const container = document.getElementById("legend-items");
+  if (!container) return;
+
+  container.innerHTML = "";
+  legendItems.forEach(item => {
+    container.innerHTML += `
+      <div style="display:flex;align-items:center;gap:8px;margin:4px 0">
+        <span style="width:14px;height:14px;background:${item.color};
+              border-radius:3px;border:1px solid #555"></span>
+        <span style="font-size:12px">${item.label}</span>
+      </div>
+    `;
+  });
+}
 </script>
 
 {% endblock %}

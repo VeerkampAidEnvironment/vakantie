@@ -19,6 +19,13 @@ const activityColors = {
   "alpineren": "#1ABC9C"
 };
 
+const climbingMarkerColors = {
+  single: "#8e44ad",   // purple (current)
+  multiple: "#e67e22"  // orange
+};
+
+
+
 function simplifyCoords(coords, tol = 0.0001) {
   if (!coords || coords.length < 3) return coords;
   const out = [coords[0]];
@@ -195,6 +202,7 @@ function renderVacations(data) {
   layers = [];
 
   const fetchPromises = [];
+  const climbingGroups = new Map();
 
   data.forEach(v => {
 
@@ -238,34 +246,82 @@ function renderVacations(data) {
       fetchPromises.push(p);
     });
 
+        // === CLIMBING AREAS (collect, do not render yet) ==================
+        if (v.climbing) {
+          for (const [areaName, area] of Object.entries(v.climbing)) {
+            if (!Array.isArray(area.coords)) continue;
 
+            const key = `${area.coords[0]},${area.coords[1]}`;
 
-    //
-    // === CLIMBING AREAS ==============================================
-    //
-    if (v.climbing) {
-      for (const [areaName, area] of Object.entries(v.climbing)) {
-        if (!area.coords || area.coords.length !== 2) continue;
+            if (!climbingGroups.has(key)) {
+              climbingGroups.set(key, {
+                name: areaName,
+                coords: area.coords,
+                instances: []
+              });
+            }
 
-        const marker = L.circleMarker(area.coords, {
-          radius: 7,
-          color: "#8e44ad",
-          fillColor: "#8e44ad",
-          fillOpacity: 0.85,
-          weight: 2
-        }).addTo(map);
+            climbingGroups.get(key).instances.push({
+              vacation: v,
+              areaName,   // ← THIS MUST EXIST
+              area
+            });
+          }
+        }
 
-        marker.bindPopup(`
-          <b>${areaName}</b><br>
-          Routes: ${area.routes ? area.routes.length : 0}<br>
-          <a href="/vacation/${v.folder}">Details</a>
-        `);
-
-        layers.push(marker);
-      }
-    }
 
   }); // end forEach(vacation)
+//
+// === CLIMBING AREA MARKERS (render grouped) =======================
+//
+for (const group of climbingGroups.values()) {
+    const isMultiple = group.instances.length > 1;
+    const markerColor = isMultiple
+      ? climbingMarkerColors.multiple
+      : climbingMarkerColors.single;
+
+    const marker = L.circleMarker(group.coords, {
+      radius: 7,
+      color: markerColor,
+      fillColor: markerColor,
+      fillOpacity: 0.85,
+      weight: 2
+    }).addTo(map);
+
+  // Single instance → normal popup
+  if (group.instances.length === 1) {
+    const { vacation, area } = group.instances[0];
+
+    marker.bindPopup(`
+      <b>${group.name}</b><br>
+      ${vacation.destination} (${vacation.year})<br>
+      Routes: ${area.routes.length}<br>
+      <a href="/vacation/${vacation.folder}">Details</a>
+    `);
+  }
+
+  // Multiple instances → chooser popup
+ else {
+  const chooserHtml = group.instances
+    .map(inst => `
+      <div style="margin:4px 0;">
+        <a href="/vacation/${inst.vacation.folder}">
+          ${inst.areaName} – ${inst.vacation.destination} (${inst.vacation.year})
+        </a>
+      </div>
+    `)
+    .join("");
+
+  marker.bindPopup(`
+    <b>Multiple climbing areas</b><br>
+    Choose a visit:<br>
+    ${chooserHtml}
+  `);
+}
+
+
+  layers.push(marker);
+}
 
 
 

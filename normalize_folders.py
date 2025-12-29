@@ -11,16 +11,22 @@ def normalize(name: str) -> str:
     )
 
 def force_rename(src, dst):
-    if src == dst:
+    if os.path.abspath(src) == os.path.abspath(dst):
         return
 
+    # If destination already exists, do nothing (or merge if you want)
+    if os.path.exists(dst):
+        print(f"⚠ Skipping, destination exists: {dst}")
+        return
+
+    # Case-only rename on Windows requires temp hop
     if os.path.normcase(src) == os.path.normcase(dst):
-        # Case-only rename → use temp name
         tmp = src + "__tmp__" + uuid.uuid4().hex[:6]
         os.rename(src, tmp)
         os.rename(tmp, dst)
     else:
         os.rename(src, dst)
+
 
 def main():
     for vacation in os.listdir(VACATIONS_DIR):

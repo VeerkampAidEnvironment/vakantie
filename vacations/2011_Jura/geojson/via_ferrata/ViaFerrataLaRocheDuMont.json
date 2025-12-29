@@ -1,1 +1,0 @@
-{"type": "FeatureCollection", "features": [{"type": "Feature", "geometry": {"type": "LineString", "coordinates": [[6.153321, 47.105718], [6.153096, 47.107216], [6.152356, 47.107295], [6.151706, 47.107599], [6.150774, 47.107941], [6.150294, 47.108244], [6.152548, 47.107471], [6.153726, 47.107059]]}, "properties": {"source": "gpx", "points_original": 74, "points_simplified": 8}}]}

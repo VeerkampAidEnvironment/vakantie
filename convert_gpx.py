@@ -13,8 +13,13 @@ SIMPLIFY_BY_ACTIVITY = {
 DEFAULT_SIMPLIFY = 1  # everything else
 
 def convert_gpx(gpx_path: Path, out_path: Path, simplify_every: int):
-    with open(gpx_path, "r", encoding="utf-8") as f:
-        gpx = gpxpy.parse(f)
+    try:
+        with open(gpx_path, "r", encoding="utf-8", errors="replace") as f:
+            gpx = gpxpy.parse(f)
+    except Exception as e:
+        print(f"❌ Failed to parse {gpx_path}: {e}")
+        return
+
 
     features = []
 
